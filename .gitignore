@@ -1,0 +1,13 @@
+# Only allowlisted files can ever be committed.
+*
+!.gitignore
+!README.md
+!LICENSE
+!CONTRIBUTING.md
+!SECURITY.md
+!data/
+!data/repos.json
+!data/removed.json
+!data/meta.json
+!scripts/
+!scripts/*.mjs

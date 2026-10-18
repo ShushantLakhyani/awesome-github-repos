@@ -1,0 +1,218 @@
+[
+  {
+    "id": 658928958,
+    "repo": "ollama/ollama",
+    "url": "https://github.com/ollama/ollama",
+    "category": "ai",
+    "description": "Run open AI models like Llama and Gemma on your own computer with a single command.",
+    "license": "MIT",
+    "added": "2026-10-18"
+  },
+  {
+    "id": 612354784,
+    "repo": "ggml-org/llama.cpp",
+    "url": "https://github.com/ggml-org/llama.cpp",
+    "category": "ai",
+    "description": "Fast engine for running large language models locally, even on laptops without a GPU.",
+    "license": "MIT",
+    "added": "2026-10-18"
+  },
+  {
+    "id": 888092115,
+    "repo": "microsoft/markitdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "category": "ai",
+    "description": "Turns PDFs, Word, Excel and other files into clean Markdown that AI tools can read.",
+    "license": "MIT",
+    "added": "2026-10-18"
+  },
+  {
+    "id": 589831718,
+    "repo": "Comfy-Org/ComfyUI",
+    "url": "https://github.com/Comfy-Org/ComfyUI",
+    "category": "ai",
+    "description": "Node-based app for building image and video generation workflows with open models.",
+    "license": "GPL-3.0",
+    "added": "2026-10-18"
+  },
+  {
+    "id": 552661142,
+    "repo": "langchain-ai/langchain",
+    "url": "https://github.com/langchain-ai/langchain",
+    "category": "ai",
+    "description": "Framework for building apps and agents on top of large language models.",
+    "license": "MIT",
+    "added": "2026-10-18"
+  },
+  {
+    "id": 155220641,
+    "repo": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "category": "ai",
+    "description": "Library of ready-made AI models for text, images and audio, usable in a few lines of Python.",
+    "license": "Apache-2.0",
+    "added": "2026-10-18"
+  },
+  {
+    "id": 203587744,
+    "repo": "hoppscotch/hoppscotch",
+    "url": "https://github.com/hoppscotch/hoppscotch",
+    "category": "dev",
+    "description": "Lightweight tool for testing APIs in the browser, an open alternative to Postman.",
+    "license": "MIT",
+    "added": "2026-10-18"
+  },
+  {
+    "id": 134017286,
+    "repo": "jesseduffield/lazygit",
+    "url": "https://github.com/jesseduffield/lazygit",
+    "category": "dev",
+    "description": "Simple terminal interface for Git that makes staging, committing and branching faster.",
+    "license": "MIT",
+    "added": "2026-10-18"
+  },
+  {
+    "id": 53631945,
+    "repo": "BurntSushi/ripgrep",
+    "url": "https://github.com/BurntSushi/ripgrep",
+    "category": "dev",
+    "description": "Very fast command-line tool for searching text across files and folders.",
+    "license": "Unlicense",
+    "added": "2026-10-18"
+  },
+  {
+    "id": 13807606,
+    "repo": "junegunn/fzf",
+    "url": "https://github.com/junegunn/fzf",
+    "category": "dev",
+    "description": "Command-line fuzzy finder for quickly picking files, past commands and more.",
+    "license": "MIT",
+    "added": "2026-10-18"
+  },
+  {
+    "id": 41881900,
+    "repo": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "category": "dev",
+    "description": "Source code of Visual Studio Code, the popular free code editor.",
+    "license": "MIT",
+    "added": "2026-10-18"
+  },
+  {
+    "id": 377496562,
+    "repo": "AppFlowy-IO/AppFlowy",
+    "url": "https://github.com/AppFlowy-IO/AppFlowy",
+    "category": "productivity",
+    "description": "Open-source workspace for notes, tasks and wikis, similar to Notion.",
+    "license": "AGPL-3.0",
+    "added": "2026-10-18"
+  },
+  {
+    "id": 436297812,
+    "repo": "usememos/memos",
+    "url": "https://github.com/usememos/memos",
+    "category": "productivity",
+    "description": "Lightweight self-hosted notes app for quick thoughts and journaling.",
+    "license": "MIT",
+    "added": "2026-10-18"
+  },
+  {
+    "id": 231283452,
+    "repo": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "category": "design",
+    "description": "Virtual whiteboard for sketching diagrams with a hand-drawn look.",
+    "license": "MIT",
+    "added": "2026-10-18"
+  },
+  {
+    "id": 48769241,
+    "repo": "penpot/penpot",
+    "url": "https://github.com/penpot/penpot",
+    "category": "design",
+    "description": "Open-source design and prototyping tool for teams, an alternative to Figma.",
+    "license": "MPL-2.0",
+    "added": "2026-10-18"
+  },
+  {
+    "id": 585146387,
+    "repo": "shadcn-ui/ui",
+    "url": "https://github.com/shadcn-ui/ui",
+    "category": "design",
+    "description": "Beautiful React components you copy into your project and fully customise.",
+    "license": "MIT",
+    "added": "2026-10-18"
+  },
+  {
+    "id": 455229168,
+    "repo": "immich-app/immich",
+    "url": "https://github.com/immich-app/immich",
+    "category": "self-hosted",
+    "description": "Self-hosted photo and video backup, an alternative to Google Photos.",
+    "license": "AGPL-3.0",
+    "added": "2026-10-18"
+  },
+  {
+    "id": 458648791,
+    "repo": "paperless-ngx/paperless-ngx",
+    "url": "https://github.com/paperless-ngx/paperless-ngx",
+    "category": "self-hosted",
+    "description": "Scans, reads and organises your paper documents into a searchable archive.",
+    "license": "GPL-3.0",
+    "added": "2026-10-18"
+  },
+  {
+    "id": 39464018,
+    "repo": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "category": "data",
+    "description": "Data exploration and dashboard tool for building charts straight from your databases.",
+    "license": "Apache-2.0",
+    "added": "2026-10-18"
+  },
+  {
+    "id": 138754790,
+    "repo": "duckdb/duckdb",
+    "url": "https://github.com/duckdb/duckdb",
+    "category": "data",
+    "description": "Fast in-process database for analysing data with SQL right on your laptop.",
+    "license": "MIT",
+    "added": "2026-10-18"
+  },
+  {
+    "id": 28457823,
+    "repo": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "category": "learning",
+    "description": "Free, self-paced curriculum for learning to code, with projects and certifications.",
+    "license": "BSD-3-Clause",
+    "added": "2026-10-18"
+  },
+  {
+    "id": 655806940,
+    "repo": "microsoft/generative-ai-for-beginners",
+    "url": "https://github.com/microsoft/generative-ai-for-beginners",
+    "category": "learning",
+    "description": "Free course with lessons on the basics of building generative AI apps.",
+    "license": "MIT",
+    "added": "2026-10-18"
+  },
+  {
+    "id": 63476337,
+    "repo": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "category": "learning",
+    "description": "Large collection of common algorithms written in Python for learning.",
+    "license": "MIT",
+    "added": "2026-10-18"
+  },
+  {
+    "id": 14712850,
+    "repo": "syncthing/syncthing",
+    "url": "https://github.com/syncthing/syncthing",
+    "category": "utilities",
+    "description": "Keeps files in sync across your devices directly, without any cloud service.",
+    "license": "MPL-2.0",
+    "added": "2026-10-18"
+  }
+]
