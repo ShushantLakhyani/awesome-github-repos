@@ -214,5 +214,32 @@
     "description": "Keeps files in sync across your devices directly, without any cloud service.",
     "license": "MPL-2.0",
     "added": "2026-10-18"
+  },
+  {
+    "id": 130464961,
+    "repo": "sharkdp/bat",
+    "url": "https://github.com/sharkdp/bat",
+    "category": "dev",
+    "description": "A command line tool that shows file contents with colours, line numbers and Git changes.",
+    "license": "Apache-2.0",
+    "added": "2026-10-19"
+  },
+  {
+    "id": 243546335,
+    "repo": "tabler/tabler-icons",
+    "url": "https://github.com/tabler/tabler-icons",
+    "category": "design",
+    "description": "A large free set of simple outline icons you can use in websites and apps.",
+    "license": "MIT",
+    "added": "2026-10-19"
+  },
+  {
+    "id": 90793418,
+    "repo": "sharkdp/fd",
+    "url": "https://github.com/sharkdp/fd",
+    "category": "dev",
+    "description": "A command line tool for finding files and folders by name using short, simple commands.",
+    "license": "Apache-2.0",
+    "added": "2026-10-19"
   }
 ]

@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-24 repos · last checked 2026-10-18
+27 repos · last checked 2026-10-19
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -37,6 +37,8 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - Simple terminal interface for Git that makes staging, committing and branching faster. `MIT`
 - [junegunn/fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder for quickly picking files, past commands and more. `MIT`
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Source code of Visual Studio Code, the popular free code editor. `MIT`
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A command line tool that shows file contents with colours, line numbers and Git changes. `Apache-2.0`
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A command line tool for finding files and folders by name using short, simple commands. `Apache-2.0`
 
 <a id="productivity"></a>
 ## Productivity and notes
@@ -50,6 +52,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching diagrams with a hand-drawn look. `MIT`
 - [penpot/penpot](https://github.com/penpot/penpot) - Open-source design and prototyping tool for teams, an alternative to Figma. `MPL-2.0`
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautiful React components you copy into your project and fully customise. `MIT`
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A large free set of simple outline icons you can use in websites and apps. `MIT`
 
 <a id="self-hosted"></a>
 ## Self-hosted apps
