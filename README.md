@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-27 repos · last checked 2026-10-19
+30 repos · last checked 2026-10-20
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -63,7 +63,9 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 <a id="data"></a>
 ## Data and visualization
 
+- [apache/echarts](https://github.com/apache/echarts) - A JavaScript library for drawing interactive charts and graphs on web pages. `Apache-2.0`
 - [apache/superset](https://github.com/apache/superset) - Data exploration and dashboard tool for building charts straight from your databases. `Apache-2.0`
+- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - A desktop app for browsing, editing and querying many kinds of databases. `Apache-2.0`
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - Fast in-process database for analysing data with SQL right on your laptop. `MIT`
 
 <a id="learning"></a>
@@ -76,6 +78,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 <a id="utilities"></a>
 ## Utilities
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - A file manager that runs in the terminal and shows file and image previews. `MIT`
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Keeps files in sync across your devices directly, without any cloud service. `MPL-2.0`
 
 ## How repos are picked

@@ -241,5 +241,32 @@
     "description": "A command line tool for finding files and folders by name using short, simple commands.",
     "license": "Apache-2.0",
     "added": "2026-10-19"
+  },
+  {
+    "id": 9185792,
+    "repo": "apache/echarts",
+    "url": "https://github.com/apache/echarts",
+    "category": "data",
+    "description": "A JavaScript library for drawing interactive charts and graphs on web pages.",
+    "license": "Apache-2.0",
+    "added": "2026-10-20"
+  },
+  {
+    "id": 44662669,
+    "repo": "dbeaver/dbeaver",
+    "url": "https://github.com/dbeaver/dbeaver",
+    "category": "data",
+    "description": "A desktop app for browsing, editing and querying many kinds of databases.",
+    "license": "Apache-2.0",
+    "added": "2026-10-20"
+  },
+  {
+    "id": 663900193,
+    "repo": "sxyazi/yazi",
+    "url": "https://github.com/sxyazi/yazi",
+    "category": "utilities",
+    "description": "A file manager that runs in the terminal and shows file and image previews.",
+    "license": "MIT",
+    "added": "2026-10-20"
   }
 ]
