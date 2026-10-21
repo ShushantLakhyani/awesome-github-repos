@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-30 repos · last checked 2026-10-20
+33 repos · last checked 2026-10-21
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -44,6 +44,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 ## Productivity and notes
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Open-source workspace for notes, tasks and wikis, similar to Notion. `AGPL-3.0`
+- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - A notes app where you sort notes into a tree of folders to build your own big personal wiki. `AGPL-3.0`
 - [usememos/memos](https://github.com/usememos/memos) - Lightweight self-hosted notes app for quick thoughts and journaling. `MIT`
 
 <a id="design"></a>
@@ -58,6 +59,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 ## Self-hosted apps
 
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup, an alternative to Google Photos. `AGPL-3.0`
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A tool you run yourself that checks if your websites are up and alerts you when one goes down. `MIT`
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - Scans, reads and organises your paper documents into a searchable archive. `GPL-3.0`
 
 <a id="data"></a>
@@ -78,6 +80,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 <a id="utilities"></a>
 ## Utilities
 
+- [jgm/pandoc](https://github.com/jgm/pandoc) - A command-line tool that turns documents from one format into another, like Markdown into Word or PDF. `GPL-2.0`
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - A file manager that runs in the terminal and shows file and image previews. `MIT`
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Keeps files in sync across your devices directly, without any cloud service. `MPL-2.0`
 

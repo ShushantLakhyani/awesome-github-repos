@@ -268,5 +268,32 @@
     "description": "A file manager that runs in the terminal and shows file and image previews.",
     "license": "MIT",
     "added": "2026-10-20"
+  },
+  {
+    "id": 382496361,
+    "repo": "louislam/uptime-kuma",
+    "url": "https://github.com/louislam/uptime-kuma",
+    "category": "self-hosted",
+    "description": "A tool you run yourself that checks if your websites are up and alerts you when one goes down.",
+    "license": "MIT",
+    "added": "2026-10-21"
+  },
+  {
+    "id": 571770,
+    "repo": "jgm/pandoc",
+    "url": "https://github.com/jgm/pandoc",
+    "category": "utilities",
+    "description": "A command-line tool that turns documents from one format into another, like Markdown into Word or PDF.",
+    "license": "GPL-2.0",
+    "added": "2026-10-21"
+  },
+  {
+    "id": 92111509,
+    "repo": "TriliumNext/Trilium",
+    "url": "https://github.com/TriliumNext/Trilium",
+    "category": "productivity",
+    "description": "A notes app where you sort notes into a tree of folders to build your own big personal wiki.",
+    "license": "AGPL-3.0",
+    "added": "2026-10-21"
   }
 ]
