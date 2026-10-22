@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-33 repos · last checked 2026-10-21
+36 repos · last checked 2026-10-22
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -32,6 +32,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 <a id="dev"></a>
 ## Developer tools
 
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A terminal app for typing commands that draws text using your graphics card and is set up with a config file. `Apache-2.0`
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - Very fast command-line tool for searching text across files and folders. `Unlicense`
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Lightweight tool for testing APIs in the browser, an open alternative to Postman. `MIT`
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - Simple terminal interface for Git that makes staging, committing and branching faster. `MIT`
@@ -39,11 +40,13 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Source code of Visual Studio Code, the popular free code editor. `MIT`
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A command line tool that shows file contents with colours, line numbers and Git changes. `Apache-2.0`
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A command line tool for finding files and folders by name using short, simple commands. `Apache-2.0`
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - Splits one terminal window into many panes and tabs so you can run several programs side by side. `MIT`
 
 <a id="productivity"></a>
 ## Productivity and notes
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Open-source workspace for notes, tasks and wikis, similar to Notion. `AGPL-3.0`
+- [marktext/marktext](https://github.com/marktext/marktext) - A desktop writing app for Markdown that shows formatted text as you type, for Windows, Mac and Linux. `MIT`
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - A notes app where you sort notes into a tree of folders to build your own big personal wiki. `AGPL-3.0`
 - [usememos/memos](https://github.com/usememos/memos) - Lightweight self-hosted notes app for quick thoughts and journaling. `MIT`
 

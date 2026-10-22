@@ -295,5 +295,32 @@
     "description": "A notes app where you sort notes into a tree of folders to build your own big personal wiki.",
     "license": "AGPL-3.0",
     "added": "2026-10-21"
+  },
+  {
+    "id": 110446844,
+    "repo": "marktext/marktext",
+    "url": "https://github.com/marktext/marktext",
+    "category": "productivity",
+    "description": "A desktop writing app for Markdown that shows formatted text as you type, for Windows, Mac and Linux.",
+    "license": "MIT",
+    "added": "2026-10-22"
+  },
+  {
+    "id": 51980455,
+    "repo": "alacritty/alacritty",
+    "url": "https://github.com/alacritty/alacritty",
+    "category": "dev",
+    "description": "A terminal app for typing commands that draws text using your graphics card and is set up with a config file.",
+    "license": "Apache-2.0",
+    "added": "2026-10-22"
+  },
+  {
+    "id": 292014229,
+    "repo": "zellij-org/zellij",
+    "url": "https://github.com/zellij-org/zellij",
+    "category": "dev",
+    "description": "Splits one terminal window into many panes and tabs so you can run several programs side by side.",
+    "license": "MIT",
+    "added": "2026-10-22"
   }
 ]
