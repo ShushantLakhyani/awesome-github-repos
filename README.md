@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-36 repos · last checked 2026-10-22
+39 repos · last checked 2026-10-23
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -61,6 +61,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 <a id="self-hosted"></a>
 ## Self-hosted apps
 
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - A code hosting app you run on your own server to store projects, track issues and review changes. `MIT`
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup, an alternative to Google Photos. `AGPL-3.0`
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A tool you run yourself that checks if your websites are up and alerts you when one goes down. `MIT`
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - Scans, reads and organises your paper documents into a searchable archive. `GPL-3.0`
@@ -78,11 +79,13 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - Free, self-paced curriculum for learning to code, with projects and certifications. `BSD-3-Clause`
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - Free course with lessons on the basics of building generative AI apps. `MIT`
+- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - A free course of short lessons that teaches how to build web pages with HTML, CSS and JavaScript. `MIT`
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - Large collection of common algorithms written in Python for learning. `MIT`
 
 <a id="utilities"></a>
 ## Utilities
 
+- [darkreader/darkreader](https://github.com/darkreader/darkreader) - A browser add-on that turns bright web pages dark so they are easier on your eyes. `MIT`
 - [jgm/pandoc](https://github.com/jgm/pandoc) - A command-line tool that turns documents from one format into another, like Markdown into Word or PDF. `GPL-2.0`
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - A file manager that runs in the terminal and shows file and image previews. `MIT`
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Keeps files in sync across your devices directly, without any cloud service. `MPL-2.0`

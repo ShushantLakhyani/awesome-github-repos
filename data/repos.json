@@ -322,5 +322,32 @@
     "description": "Splits one terminal window into many panes and tabs so you can run several programs side by side.",
     "license": "MIT",
     "added": "2026-10-22"
+  },
+  {
+    "id": 311525798,
+    "repo": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "category": "learning",
+    "description": "A free course of short lessons that teaches how to build web pages with HTML, CSS and JavaScript.",
+    "license": "MIT",
+    "added": "2026-10-23"
+  },
+  {
+    "id": 72495579,
+    "repo": "go-gitea/gitea",
+    "url": "https://github.com/go-gitea/gitea",
+    "category": "self-hosted",
+    "description": "A code hosting app you run on your own server to store projects, track issues and review changes.",
+    "license": "MIT",
+    "added": "2026-10-23"
+  },
+  {
+    "id": 26682105,
+    "repo": "darkreader/darkreader",
+    "url": "https://github.com/darkreader/darkreader",
+    "category": "utilities",
+    "description": "A browser add-on that turns bright web pages dark so they are easier on your eyes.",
+    "license": "MIT",
+    "added": "2026-10-23"
   }
 ]
