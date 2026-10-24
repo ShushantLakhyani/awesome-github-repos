@@ -349,5 +349,32 @@
     "description": "A browser add-on that turns bright web pages dark so they are easier on your eyes.",
     "license": "MIT",
     "added": "2026-10-23"
+  },
+  {
+    "id": 6720403,
+    "repo": "simple-icons/simple-icons",
+    "url": "https://github.com/simple-icons/simple-icons",
+    "category": "design",
+    "description": "A big free collection of simple one-colour logo icons for well-known brands, as SVG files.",
+    "license": "CC0-1.0",
+    "added": "2026-10-24"
+  },
+  {
+    "id": 943149,
+    "repo": "d3/d3",
+    "url": "https://github.com/d3/d3",
+    "category": "data",
+    "description": "A JavaScript library for turning data into charts, maps and other pictures on web pages.",
+    "license": "ISC",
+    "added": "2026-10-24"
+  },
+  {
+    "id": 361044034,
+    "repo": "slidevjs/slidev",
+    "url": "https://github.com/slidevjs/slidev",
+    "category": "productivity",
+    "description": "A tool that turns a plain Markdown text file into a slide show you can present in the browser.",
+    "license": "MIT",
+    "added": "2026-10-24"
   }
 ]

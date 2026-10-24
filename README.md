@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-39 repos · last checked 2026-10-23
+42 repos · last checked 2026-10-24
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -47,6 +47,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Open-source workspace for notes, tasks and wikis, similar to Notion. `AGPL-3.0`
 - [marktext/marktext](https://github.com/marktext/marktext) - A desktop writing app for Markdown that shows formatted text as you type, for Windows, Mac and Linux. `MIT`
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - A tool that turns a plain Markdown text file into a slide show you can present in the browser. `MIT`
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - A notes app where you sort notes into a tree of folders to build your own big personal wiki. `AGPL-3.0`
 - [usememos/memos](https://github.com/usememos/memos) - Lightweight self-hosted notes app for quick thoughts and journaling. `MIT`
 
@@ -56,6 +57,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching diagrams with a hand-drawn look. `MIT`
 - [penpot/penpot](https://github.com/penpot/penpot) - Open-source design and prototyping tool for teams, an alternative to Figma. `MPL-2.0`
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautiful React components you copy into your project and fully customise. `MIT`
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - A big free collection of simple one-colour logo icons for well-known brands, as SVG files. `CC0-1.0`
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A large free set of simple outline icons you can use in websites and apps. `MIT`
 
 <a id="self-hosted"></a>
@@ -71,6 +73,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 
 - [apache/echarts](https://github.com/apache/echarts) - A JavaScript library for drawing interactive charts and graphs on web pages. `Apache-2.0`
 - [apache/superset](https://github.com/apache/superset) - Data exploration and dashboard tool for building charts straight from your databases. `Apache-2.0`
+- [d3/d3](https://github.com/d3/d3) - A JavaScript library for turning data into charts, maps and other pictures on web pages. `ISC`
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - A desktop app for browsing, editing and querying many kinds of databases. `Apache-2.0`
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - Fast in-process database for analysing data with SQL right on your laptop. `MIT`
 
