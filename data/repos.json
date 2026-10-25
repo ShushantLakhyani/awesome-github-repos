@@ -376,5 +376,32 @@
     "description": "A tool that turns a plain Markdown text file into a slide show you can present in the browser.",
     "license": "MIT",
     "added": "2026-10-24"
+  },
+  {
+    "id": 16752620,
+    "repo": "gogs/gogs",
+    "url": "https://github.com/gogs/gogs",
+    "category": "self-hosted",
+    "description": "A small Git server you run on your own computer to store and share code projects.",
+    "license": "MIT",
+    "added": "2026-10-25"
+  },
+  {
+    "id": 343965132,
+    "repo": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "category": "learning",
+    "description": "A free 12-week course with lessons and quizzes that teaches the basics of machine learning.",
+    "license": "MIT",
+    "added": "2026-10-25"
+  },
+  {
+    "id": 219616873,
+    "repo": "charmbracelet/glow",
+    "url": "https://github.com/charmbracelet/glow",
+    "category": "utilities",
+    "description": "A terminal app that shows Markdown files as neat, easy-to-read pages.",
+    "license": "MIT",
+    "added": "2026-10-25"
   }
 ]
