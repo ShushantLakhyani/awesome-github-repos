@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-45 repos · last checked 2026-10-25
+48 repos · last checked 2026-10-26
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -34,6 +34,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A terminal app for typing commands that draws text using your graphics card and is set up with a config file. `Apache-2.0`
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - Very fast command-line tool for searching text across files and folders. `Unlicense`
+- [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - A testing library that checks web pages for problems that make them hard to use for people with disabilities. `MPL-2.0`
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Lightweight tool for testing APIs in the browser, an open alternative to Postman. `MIT`
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - Simple terminal interface for Git that makes staging, committing and branching faster. `MIT`
 - [junegunn/fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder for quickly picking files, past commands and more. `MIT`
@@ -56,6 +57,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching diagrams with a hand-drawn look. `MIT`
 - [penpot/penpot](https://github.com/penpot/penpot) - Open-source design and prototyping tool for teams, an alternative to Figma. `MPL-2.0`
+- [radix-ui/primitives](https://github.com/radix-ui/primitives) - Unstyled React parts like menus and dialogs that work well with keyboards and screen readers. `MIT`
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautiful React components you copy into your project and fully customise. `MIT`
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - A big free collection of simple one-colour logo icons for well-known brands, as SVG files. `CC0-1.0`
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A large free set of simple outline icons you can use in websites and apps. `MIT`
@@ -93,6 +95,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - A terminal app that shows Markdown files as neat, easy-to-read pages. `MIT`
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - A browser add-on that turns bright web pages dark so they are easier on your eyes. `MIT`
 - [jgm/pandoc](https://github.com/jgm/pandoc) - A command-line tool that turns documents from one format into another, like Markdown into Word or PDF. `GPL-2.0`
+- [microsoft/terminal](https://github.com/microsoft/terminal) - A modern terminal app for Windows with tabs, panes, themes and support for many shells. `MIT`
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - A file manager that runs in the terminal and shows file and image previews. `MIT`
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Keeps files in sync across your devices directly, without any cloud service. `MPL-2.0`
 

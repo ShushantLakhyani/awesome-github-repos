@@ -403,5 +403,32 @@
     "description": "A terminal app that shows Markdown files as neat, easy-to-read pages.",
     "license": "MIT",
     "added": "2026-10-25"
+  },
+  {
+    "id": 100060912,
+    "repo": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "category": "utilities",
+    "description": "A modern terminal app for Windows with tabs, panes, themes and support for many shells.",
+    "license": "MIT",
+    "added": "2026-10-26"
+  },
+  {
+    "id": 37205440,
+    "repo": "dequelabs/axe-core",
+    "url": "https://github.com/dequelabs/axe-core",
+    "category": "dev",
+    "description": "A testing library that checks web pages for problems that make them hard to use for people with disabilities.",
+    "license": "MPL-2.0",
+    "added": "2026-10-26"
+  },
+  {
+    "id": 273499522,
+    "repo": "radix-ui/primitives",
+    "url": "https://github.com/radix-ui/primitives",
+    "category": "design",
+    "description": "Unstyled React parts like menus and dialogs that work well with keyboards and screen readers.",
+    "license": "MIT",
+    "added": "2026-10-26"
   }
 ]
