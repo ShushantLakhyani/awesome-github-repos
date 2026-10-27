@@ -430,5 +430,32 @@
     "description": "Unstyled React parts like menus and dialogs that work well with keyboards and screen readers.",
     "license": "MIT",
     "added": "2026-10-26"
+  },
+  {
+    "id": 4704710,
+    "repo": "mwaskom/seaborn",
+    "url": "https://github.com/mwaskom/seaborn",
+    "category": "data",
+    "description": "A Python library that turns tables of numbers into clear charts with very little code.",
+    "license": "BSD-3-Clause",
+    "added": "2026-10-27"
+  },
+  {
+    "id": 344191198,
+    "repo": "microsoft/Data-Science-For-Beginners",
+    "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "category": "learning",
+    "description": "A free course of short lessons and quizzes that teaches the basics of working with data.",
+    "license": "MIT",
+    "added": "2026-10-27"
+  },
+  {
+    "id": 31168578,
+    "repo": "hemanth/functional-programming-jargon",
+    "url": "https://github.com/hemanth/functional-programming-jargon",
+    "category": "learning",
+    "description": "A word list that explains hard functional programming terms with plain words and small code examples.",
+    "license": "MIT",
+    "added": "2026-10-27"
   }
 ]

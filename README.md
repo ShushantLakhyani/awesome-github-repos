@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-48 repos · last checked 2026-10-26
+51 repos · last checked 2026-10-27
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -79,11 +79,14 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [d3/d3](https://github.com/d3/d3) - A JavaScript library for turning data into charts, maps and other pictures on web pages. `ISC`
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - A desktop app for browsing, editing and querying many kinds of databases. `Apache-2.0`
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - Fast in-process database for analysing data with SQL right on your laptop. `MIT`
+- [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - A Python library that turns tables of numbers into clear charts with very little code. `BSD-3-Clause`
 
 <a id="learning"></a>
 ## Learning
 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - Free, self-paced curriculum for learning to code, with projects and certifications. `BSD-3-Clause`
+- [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - A word list that explains hard functional programming terms with plain words and small code examples. `MIT`
+- [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - A free course of short lessons and quizzes that teaches the basics of working with data. `MIT`
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - Free course with lessons on the basics of building generative AI apps. `MIT`
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - A free 12-week course with lessons and quizzes that teaches the basics of machine learning. `MIT`
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - A free course of short lessons that teaches how to build web pages with HTML, CSS and JavaScript. `MIT`
