@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-51 repos · last checked 2026-10-27
+54 repos · last checked 2026-10-28
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -48,6 +48,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Open-source workspace for notes, tasks and wikis, similar to Notion. `AGPL-3.0`
 - [marktext/marktext](https://github.com/marktext/marktext) - A desktop writing app for Markdown that shows formatted text as you type, for Windows, Mac and Linux. `MIT`
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - A notes app in your browser where pages link to each other and small scripts can build lists for you. `MIT`
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - A tool that turns a plain Markdown text file into a slide show you can present in the browser. `MIT`
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - A notes app where you sort notes into a tree of folders to build your own big personal wiki. `AGPL-3.0`
 - [usememos/memos](https://github.com/usememos/memos) - Lightweight self-hosted notes app for quick thoughts and journaling. `MIT`
@@ -65,6 +66,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 <a id="self-hosted"></a>
 ## Self-hosted apps
 
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A home page you run yourself that shows news, weather, videos and server status in one screen. `AGPL-3.0`
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - A code hosting app you run on your own server to store projects, track issues and review changes. `MIT`
 - [gogs/gogs](https://github.com/gogs/gogs) - A small Git server you run on your own computer to store and share code projects. `MIT`
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup, an alternative to Google Photos. `AGPL-3.0`
@@ -98,6 +100,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - A terminal app that shows Markdown files as neat, easy-to-read pages. `MIT`
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - A browser add-on that turns bright web pages dark so they are easier on your eyes. `MIT`
 - [jgm/pandoc](https://github.com/jgm/pandoc) - A command-line tool that turns documents from one format into another, like Markdown into Word or PDF. `GPL-2.0`
+- [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - A diary you write in the terminal that saves plain text files and can lock them with a password. `GPL-3.0`
 - [microsoft/terminal](https://github.com/microsoft/terminal) - A modern terminal app for Windows with tabs, panes, themes and support for many shells. `MIT`
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - A file manager that runs in the terminal and shows file and image previews. `MIT`
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Keeps files in sync across your devices directly, without any cloud service. `MPL-2.0`

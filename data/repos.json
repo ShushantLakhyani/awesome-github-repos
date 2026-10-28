@@ -457,5 +457,32 @@
     "description": "A word list that explains hard functional programming terms with plain words and small code examples.",
     "license": "MIT",
     "added": "2026-10-27"
+  },
+  {
+    "id": 792861139,
+    "repo": "glanceapp/glance",
+    "url": "https://github.com/glanceapp/glance",
+    "category": "self-hosted",
+    "description": "A home page you run yourself that shows news, weather, videos and server status in one screen.",
+    "license": "AGPL-3.0",
+    "added": "2026-10-28"
+  },
+  {
+    "id": 3868463,
+    "repo": "jrnl-org/jrnl",
+    "url": "https://github.com/jrnl-org/jrnl",
+    "category": "utilities",
+    "description": "A diary you write in the terminal that saves plain text files and can lock them with a password.",
+    "license": "GPL-3.0",
+    "added": "2026-10-28"
+  },
+  {
+    "id": 459944886,
+    "repo": "silverbulletmd/silverbullet",
+    "url": "https://github.com/silverbulletmd/silverbullet",
+    "category": "productivity",
+    "description": "A notes app in your browser where pages link to each other and small scripts can build lists for you.",
+    "license": "MIT",
+    "added": "2026-10-28"
   }
 ]
