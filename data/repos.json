@@ -484,5 +484,32 @@
     "description": "A notes app in your browser where pages link to each other and small scripts can build lists for you.",
     "license": "MIT",
     "added": "2026-10-28"
+  },
+  {
+    "id": 599547518,
+    "repo": "vllm-project/vllm",
+    "url": "https://github.com/vllm-project/vllm",
+    "category": "ai",
+    "description": "Runs open AI language models on your own servers so they can answer many requests at once.",
+    "license": "Apache-2.0",
+    "added": "2026-10-29"
+  },
+  {
+    "id": 316836816,
+    "repo": "saadeghi/daisyui",
+    "url": "https://github.com/saadeghi/daisyui",
+    "category": "design",
+    "description": "Ready-made buttons, cards and other page parts that plug into Tailwind CSS with simple class names.",
+    "license": "MIT",
+    "added": "2026-10-29"
+  },
+  {
+    "id": 826168160,
+    "repo": "docling-project/docling",
+    "url": "https://github.com/docling-project/docling",
+    "category": "utilities",
+    "description": "Turns files like PDFs, Word documents and slides into clean text, Markdown or JSON.",
+    "license": "MIT",
+    "added": "2026-10-29"
   }
 ]

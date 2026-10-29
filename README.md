@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-54 repos · last checked 2026-10-28
+57 repos · last checked 2026-10-29
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -28,6 +28,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - Framework for building apps and agents on top of large language models. `MIT`
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Turns PDFs, Word, Excel and other files into clean Markdown that AI tools can read. `MIT`
 - [ollama/ollama](https://github.com/ollama/ollama) - Run open AI models like Llama and Gemma on your own computer with a single command. `MIT`
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - Runs open AI language models on your own servers so they can answer many requests at once. `Apache-2.0`
 
 <a id="dev"></a>
 ## Developer tools
@@ -59,6 +60,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching diagrams with a hand-drawn look. `MIT`
 - [penpot/penpot](https://github.com/penpot/penpot) - Open-source design and prototyping tool for teams, an alternative to Figma. `MPL-2.0`
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Unstyled React parts like menus and dialogs that work well with keyboards and screen readers. `MIT`
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - Ready-made buttons, cards and other page parts that plug into Tailwind CSS with simple class names. `MIT`
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautiful React components you copy into your project and fully customise. `MIT`
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - A big free collection of simple one-colour logo icons for well-known brands, as SVG files. `CC0-1.0`
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A large free set of simple outline icons you can use in websites and apps. `MIT`
@@ -99,6 +101,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - A terminal app that shows Markdown files as neat, easy-to-read pages. `MIT`
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - A browser add-on that turns bright web pages dark so they are easier on your eyes. `MIT`
+- [docling-project/docling](https://github.com/docling-project/docling) - Turns files like PDFs, Word documents and slides into clean text, Markdown or JSON. `MIT`
 - [jgm/pandoc](https://github.com/jgm/pandoc) - A command-line tool that turns documents from one format into another, like Markdown into Word or PDF. `GPL-2.0`
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - A diary you write in the terminal that saves plain text files and can lock them with a password. `GPL-3.0`
 - [microsoft/terminal](https://github.com/microsoft/terminal) - A modern terminal app for Windows with tabs, panes, themes and support for many shells. `MIT`
