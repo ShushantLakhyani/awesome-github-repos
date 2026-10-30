@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-57 repos · last checked 2026-10-29
+60 repos · last checked 2026-10-30
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -39,6 +39,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Lightweight tool for testing APIs in the browser, an open alternative to Postman. `MIT`
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - Simple terminal interface for Git that makes staging, committing and branching faster. `MIT`
 - [junegunn/fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder for quickly picking files, past commands and more. `MIT`
+- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - A checker that reads your shell scripts and points out mistakes before you run them. `GPL-3.0`
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Source code of Visual Studio Code, the popular free code editor. `MIT`
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A command line tool that shows file contents with colours, line numbers and Git changes. `Apache-2.0`
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A command line tool for finding files and folders by name using short, simple commands. `Apache-2.0`
@@ -49,6 +50,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Open-source workspace for notes, tasks and wikis, similar to Notion. `AGPL-3.0`
 - [marktext/marktext](https://github.com/marktext/marktext) - A desktop writing app for Markdown that shows formatted text as you type, for Windows, Mac and Linux. `MIT`
+- [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A free app that helps you make a neat resume and cover letter in your browser. `MIT`
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - A notes app in your browser where pages link to each other and small scripts can build lists for you. `MIT`
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - A tool that turns a plain Markdown text file into a slide show you can present in the browser. `MIT`
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - A notes app where you sort notes into a tree of folders to build your own big personal wiki. `AGPL-3.0`
@@ -68,6 +70,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 <a id="self-hosted"></a>
 ## Self-hosted apps
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - A tool that lets you put your apps and databases online using your own servers. `Apache-2.0`
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A home page you run yourself that shows news, weather, videos and server status in one screen. `AGPL-3.0`
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - A code hosting app you run on your own server to store projects, track issues and review changes. `MIT`
 - [gogs/gogs](https://github.com/gogs/gogs) - A small Git server you run on your own computer to store and share code projects. `MIT`

@@ -511,5 +511,32 @@
     "description": "Turns files like PDFs, Word documents and slides into clean text, Markdown or JSON.",
     "license": "MIT",
     "added": "2026-10-29"
+  },
+  {
+    "id": 249995750,
+    "repo": "reactive-resume/reactive-resume",
+    "url": "https://github.com/reactive-resume/reactive-resume",
+    "category": "productivity",
+    "description": "A free app that helps you make a neat resume and cover letter in your browser.",
+    "license": "MIT",
+    "added": "2026-10-30"
+  },
+  {
+    "id": 332880689,
+    "repo": "coollabsio/coolify",
+    "url": "https://github.com/coollabsio/coolify",
+    "category": "self-hosted",
+    "description": "A tool that lets you put your apps and databases online using your own servers.",
+    "license": "Apache-2.0",
+    "added": "2026-10-30"
+  },
+  {
+    "id": 6731432,
+    "repo": "koalaman/shellcheck",
+    "url": "https://github.com/koalaman/shellcheck",
+    "category": "dev",
+    "description": "A checker that reads your shell scripts and points out mistakes before you run them.",
+    "license": "GPL-3.0",
+    "added": "2026-10-30"
   }
 ]
