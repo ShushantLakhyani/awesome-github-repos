@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-60 repos · last checked 2026-10-30
+63 repos · last checked 2026-10-31
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -41,6 +41,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [junegunn/fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder for quickly picking files, past commands and more. `MIT`
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - A checker that reads your shell scripts and points out mistakes before you run them. `GPL-3.0`
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Source code of Visual Studio Code, the popular free code editor. `MIT`
+- [prettier/prettier](https://github.com/prettier/prettier) - A tool that tidies the layout of your code so every file follows the same neat style. `MIT`
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A command line tool that shows file contents with colours, line numbers and Git changes. `Apache-2.0`
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A command line tool for finding files and folders by name using short, simple commands. `Apache-2.0`
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - Splits one terminal window into many panes and tabs so you can run several programs side by side. `MIT`
@@ -59,6 +60,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 <a id="design"></a>
 ## Design and UI
 
+- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A set of React building blocks from Adobe for making web apps that everyone can use, including screen reader users. `Apache-2.0`
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching diagrams with a hand-drawn look. `MIT`
 - [penpot/penpot](https://github.com/penpot/penpot) - Open-source design and prototyping tool for teams, an alternative to Figma. `MPL-2.0`
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Unstyled React parts like menus and dialogs that work well with keyboards and screen readers. `MIT`
@@ -87,6 +89,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - A desktop app for browsing, editing and querying many kinds of databases. `Apache-2.0`
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - Fast in-process database for analysing data with SQL right on your laptop. `MIT`
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - A Python library that turns tables of numbers into clear charts with very little code. `BSD-3-Clause`
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - A Python library that turns a short script into a web page with charts, tables and buttons. `Apache-2.0`
 
 <a id="learning"></a>
 ## Learning

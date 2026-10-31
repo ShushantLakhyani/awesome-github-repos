@@ -538,5 +538,32 @@
     "description": "A checker that reads your shell scripts and points out mistakes before you run them.",
     "license": "GPL-3.0",
     "added": "2026-10-30"
+  },
+  {
+    "id": 204086862,
+    "repo": "streamlit/streamlit",
+    "url": "https://github.com/streamlit/streamlit",
+    "category": "data",
+    "description": "A Python library that turns a short script into a web page with charts, tables and buttons.",
+    "license": "Apache-2.0",
+    "added": "2026-10-31"
+  },
+  {
+    "id": 208362715,
+    "repo": "adobe/react-spectrum",
+    "url": "https://github.com/adobe/react-spectrum",
+    "category": "design",
+    "description": "A set of React building blocks from Adobe for making web apps that everyone can use, including screen reader users.",
+    "license": "Apache-2.0",
+    "added": "2026-10-31"
+  },
+  {
+    "id": 75104123,
+    "repo": "prettier/prettier",
+    "url": "https://github.com/prettier/prettier",
+    "category": "dev",
+    "description": "A tool that tidies the layout of your code so every file follows the same neat style.",
+    "license": "MIT",
+    "added": "2026-10-31"
   }
 ]
