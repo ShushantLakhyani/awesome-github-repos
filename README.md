@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-63 repos · last checked 2026-10-31
+66 repos · last checked 2026-11-01
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -26,6 +26,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - Fast engine for running large language models locally, even on laptops without a GPU. `MIT`
 - [huggingface/transformers](https://github.com/huggingface/transformers) - Library of ready-made AI models for text, images and audio, usable in a few lines of Python. `Apache-2.0`
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - Framework for building apps and agents on top of large language models. `MIT`
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - A self-hosted app that lets you ask an AI questions about your own documents and notes. `MIT`
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Turns PDFs, Word, Excel and other files into clean Markdown that AI tools can read. `MIT`
 - [ollama/ollama](https://github.com/ollama/ollama) - Run open AI models like Llama and Gemma on your own computer with a single command. `MIT`
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - Runs open AI language models on your own servers so they can answer many requests at once. `Apache-2.0`
@@ -54,6 +55,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A free app that helps you make a neat resume and cover letter in your browser. `MIT`
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - A notes app in your browser where pages link to each other and small scripts can build lists for you. `MIT`
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - A tool that turns a plain Markdown text file into a slide show you can present in the browser. `MIT`
+- [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A note app that locks your notes with a secret code so only you can read them. `GPL-3.0`
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - A notes app where you sort notes into a tree of folders to build your own big personal wiki. `AGPL-3.0`
 - [usememos/memos](https://github.com/usememos/memos) - Lightweight self-hosted notes app for quick thoughts and journaling. `MIT`
 
@@ -100,6 +102,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - Free course with lessons on the basics of building generative AI apps. `MIT`
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - A free 12-week course with lessons and quizzes that teaches the basics of machine learning. `MIT`
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - A free course of short lessons that teaches how to build web pages with HTML, CSS and JavaScript. `MIT`
+- [processing/p5.js](https://github.com/processing/p5.js) - A JavaScript library that makes it easy to draw shapes and make art with code in a web page. `LGPL-2.1`
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - Large collection of common algorithms written in Python for learning. `MIT`
 
 <a id="utilities"></a>

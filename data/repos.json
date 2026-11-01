@@ -565,5 +565,32 @@
     "description": "A tool that tidies the layout of your code so every file follows the same neat style.",
     "license": "MIT",
     "added": "2026-10-31"
+  },
+  {
+    "id": 8424040,
+    "repo": "processing/p5.js",
+    "url": "https://github.com/processing/p5.js",
+    "category": "learning",
+    "description": "A JavaScript library that makes it easy to draw shapes and make art with code in a web page.",
+    "license": "LGPL-2.1",
+    "added": "2026-11-01"
+  },
+  {
+    "id": 876286167,
+    "repo": "lfnovo/open-notebook",
+    "url": "https://github.com/lfnovo/open-notebook",
+    "category": "ai",
+    "description": "A self-hosted app that lets you ask an AI questions about your own documents and notes.",
+    "license": "MIT",
+    "added": "2026-11-01"
+  },
+  {
+    "id": 353775942,
+    "repo": "streetwriters/notesnook",
+    "url": "https://github.com/streetwriters/notesnook",
+    "category": "productivity",
+    "description": "A note app that locks your notes with a secret code so only you can read them.",
+    "license": "GPL-3.0",
+    "added": "2026-11-01"
   }
 ]
