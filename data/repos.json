@@ -592,5 +592,32 @@
     "description": "A note app that locks your notes with a secret code so only you can read them.",
     "license": "GPL-3.0",
     "added": "2026-11-01"
+  },
+  {
+    "id": 667110339,
+    "repo": "drawdb-io/drawdb",
+    "url": "https://github.com/drawdb-io/drawdb",
+    "category": "data",
+    "description": "A web app where you draw database tables and links, then turn the drawing into SQL code.",
+    "license": "AGPL-3.0",
+    "added": "2026-11-02"
+  },
+  {
+    "id": 53632140,
+    "repo": "micro-editor/micro",
+    "url": "https://github.com/micro-editor/micro",
+    "category": "utilities",
+    "description": "A simple text editor that runs inside the terminal and uses the usual copy, paste and save keys.",
+    "license": "MIT",
+    "added": "2026-11-02"
+  },
+  {
+    "id": 275993885,
+    "repo": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "category": "self-hosted",
+    "description": "A drag-and-drop builder for making simple company apps like admin panels and dashboards.",
+    "license": "Apache-2.0",
+    "added": "2026-11-02"
   }
 ]
