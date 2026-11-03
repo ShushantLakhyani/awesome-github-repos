@@ -619,5 +619,32 @@
     "description": "A drag-and-drop builder for making simple company apps like admin panels and dashboards.",
     "license": "Apache-2.0",
     "added": "2026-11-02"
+  },
+  {
+    "id": 65252,
+    "repo": "jekyll/jekyll",
+    "url": "https://github.com/jekyll/jekyll",
+    "category": "dev",
+    "description": "A tool that turns plain text and Markdown files into a ready-to-host website or blog.",
+    "license": "MIT",
+    "added": "2026-11-03"
+  },
+  {
+    "id": 15111821,
+    "repo": "grafana/grafana",
+    "url": "https://github.com/grafana/grafana",
+    "category": "data",
+    "description": "An open source tool for building dashboards with charts that show data from many sources.",
+    "license": "AGPL-3.0",
+    "added": "2026-11-03"
+  },
+  {
+    "id": 762289766,
+    "repo": "mui/base-ui",
+    "url": "https://github.com/mui/base-ui",
+    "category": "design",
+    "description": "A set of plain React building blocks like menus and dialogs that work well for everyone.",
+    "license": "MIT",
+    "added": "2026-11-03"
   }
 ]
