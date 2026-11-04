@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-72 repos · last checked 2026-11-03
+75 repos · last checked 2026-11-03
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -37,11 +37,13 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A terminal app for typing commands that draws text using your graphics card and is set up with a config file. `Apache-2.0`
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - Very fast command-line tool for searching text across files and folders. `Unlicense`
 - [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - A testing library that checks web pages for problems that make them hard to use for people with disabilities. `MPL-2.0`
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - A tool that shows a folder of Markdown files as a documentation website without a build step. `MIT`
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Lightweight tool for testing APIs in the browser, an open alternative to Postman. `MIT`
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - A tool that turns plain text and Markdown files into a ready-to-host website or blog. `MIT`
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - Simple terminal interface for Git that makes staging, committing and branching faster. `MIT`
 - [junegunn/fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder for quickly picking files, past commands and more. `MIT`
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - A checker that reads your shell scripts and points out mistakes before you run them. `GPL-3.0`
+- [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - A JavaScript library that turns Markdown text into HTML and lets you add your own rules. `MIT`
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Source code of Visual Studio Code, the popular free code editor. `MIT`
 - [prettier/prettier](https://github.com/prettier/prettier) - A tool that tidies the layout of your code so every file follows the same neat style. `MIT`
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A command line tool that shows file contents with colours, line numbers and Git changes. `Apache-2.0`
@@ -52,6 +54,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 ## Productivity and notes
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Open-source workspace for notes, tasks and wikis, similar to Notion. `AGPL-3.0`
+- [freeplane/freeplane](https://github.com/freeplane/freeplane) - A free desktop app for drawing mind maps to plan ideas, notes and projects. `GPL-2.0`
 - [marktext/marktext](https://github.com/marktext/marktext) - A desktop writing app for Markdown that shows formatted text as you type, for Windows, Mac and Linux. `MIT`
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A free app that helps you make a neat resume and cover letter in your browser. `MIT`
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - A notes app in your browser where pages link to each other and small scripts can build lists for you. `MIT`

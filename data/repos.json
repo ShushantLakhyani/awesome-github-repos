@@ -646,5 +646,32 @@
     "description": "A set of plain React building blocks like menus and dialogs that work well for everyone.",
     "license": "MIT",
     "added": "2026-11-03"
+  },
+  {
+    "id": 28249537,
+    "repo": "markdown-it/markdown-it",
+    "url": "https://github.com/markdown-it/markdown-it",
+    "category": "dev",
+    "description": "A JavaScript library that turns Markdown text into HTML and lets you add your own rules.",
+    "license": "MIT",
+    "added": "2026-11-04"
+  },
+  {
+    "id": 74260508,
+    "repo": "docsifyjs/docsify",
+    "url": "https://github.com/docsifyjs/docsify",
+    "category": "dev",
+    "description": "A tool that shows a folder of Markdown files as a documentation website without a build step.",
+    "license": "MIT",
+    "added": "2026-11-04"
+  },
+  {
+    "id": 5792252,
+    "repo": "freeplane/freeplane",
+    "url": "https://github.com/freeplane/freeplane",
+    "category": "productivity",
+    "description": "A free desktop app for drawing mind maps to plan ideas, notes and projects.",
+    "license": "GPL-2.0",
+    "added": "2026-11-04"
   }
 ]
