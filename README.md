@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-75 repos · last checked 2026-11-03
+78 repos · last checked 2026-11-05
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -45,6 +45,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - A checker that reads your shell scripts and points out mistakes before you run them. `GPL-3.0`
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - A JavaScript library that turns Markdown text into HTML and lets you add your own rules. `MIT`
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Source code of Visual Studio Code, the popular free code editor. `MIT`
+- [pa11y/pa11y](https://github.com/pa11y/pa11y) - A tool that checks web pages for problems that make them hard to use for people with disabilities. `LGPL-3.0`
 - [prettier/prettier](https://github.com/prettier/prettier) - A tool that tidies the layout of your code so every file follows the same neat style. `MIT`
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A command line tool that shows file contents with colours, line numbers and Git changes. `Apache-2.0`
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A command line tool for finding files and folders by name using short, simple commands. `Apache-2.0`
@@ -110,6 +111,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - Free course with lessons on the basics of building generative AI apps. `MIT`
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - A free 12-week course with lessons and quizzes that teaches the basics of machine learning. `MIT`
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - A free course of short lessons that teaches how to build web pages with HTML, CSS and JavaScript. `MIT`
+- [oppia/oppia](https://github.com/oppia/oppia) - A free learning platform where anyone can build lessons that feel like chatting with a tutor. `Apache-2.0`
 - [processing/p5.js](https://github.com/processing/p5.js) - A JavaScript library that makes it easy to draw shapes and make art with code in a web page. `LGPL-2.1`
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - Large collection of common algorithms written in Python for learning. `MIT`
 
@@ -119,6 +121,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - A terminal app that shows Markdown files as neat, easy-to-read pages. `MIT`
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - A browser add-on that turns bright web pages dark so they are easier on your eyes. `MIT`
 - [docling-project/docling](https://github.com/docling-project/docling) - Turns files like PDFs, Word documents and slides into clean text, Markdown or JSON. `MIT`
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal app with tabs, split panes and saved connections to other computers. `MIT`
 - [jgm/pandoc](https://github.com/jgm/pandoc) - A command-line tool that turns documents from one format into another, like Markdown into Word or PDF. `GPL-2.0`
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - A diary you write in the terminal that saves plain text files and can lock them with a password. `GPL-3.0`
 - [micro-editor/micro](https://github.com/micro-editor/micro) - A simple text editor that runs inside the terminal and uses the usual copy, paste and save keys. `MIT`

@@ -673,5 +673,32 @@
     "description": "A free desktop app for drawing mind maps to plan ideas, notes and projects.",
     "license": "GPL-2.0",
     "added": "2026-11-04"
+  },
+  {
+    "id": 8576730,
+    "repo": "pa11y/pa11y",
+    "url": "https://github.com/pa11y/pa11y",
+    "category": "dev",
+    "description": "A tool that checks web pages for problems that make them hard to use for people with disabilities.",
+    "license": "LGPL-3.0",
+    "added": "2026-11-05"
+  },
+  {
+    "id": 77213120,
+    "repo": "Eugeny/tabby",
+    "url": "https://github.com/Eugeny/tabby",
+    "category": "utilities",
+    "description": "A terminal app with tabs, split panes and saved connections to other computers.",
+    "license": "MIT",
+    "added": "2026-11-05"
+  },
+  {
+    "id": 40687563,
+    "repo": "oppia/oppia",
+    "url": "https://github.com/oppia/oppia",
+    "category": "learning",
+    "description": "A free learning platform where anyone can build lessons that feel like chatting with a tutor.",
+    "license": "Apache-2.0",
+    "added": "2026-11-05"
   }
 ]
