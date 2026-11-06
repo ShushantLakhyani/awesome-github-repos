@@ -700,5 +700,32 @@
     "description": "A free learning platform where anyone can build lessons that feel like chatting with a tutor.",
     "license": "Apache-2.0",
     "added": "2026-11-05"
+  },
+  {
+    "id": 725205304,
+    "repo": "unslothai/unsloth",
+    "url": "https://github.com/unslothai/unsloth",
+    "category": "ai",
+    "description": "A tool that helps you train and run AI language models on your own computer using less memory.",
+    "license": "Apache-2.0",
+    "added": "2026-11-06"
+  },
+  {
+    "id": 528313152,
+    "repo": "gethomepage/homepage",
+    "url": "https://github.com/gethomepage/homepage",
+    "category": "self-hosted",
+    "description": "A start page you host yourself that shows all your home server apps and their status in one place.",
+    "license": "GPL-3.0",
+    "added": "2026-11-06"
+  },
+  {
+    "id": 24217298,
+    "repo": "logisim-evolution/logisim-evolution",
+    "url": "https://github.com/logisim-evolution/logisim-evolution",
+    "category": "learning",
+    "description": "A desktop app for drawing and testing digital logic circuits, often used to learn how computers work.",
+    "license": "GPL-3.0",
+    "added": "2026-11-06"
   }
 ]

@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-78 repos · last checked 2026-11-05
+81 repos · last checked 2026-11-06
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -29,6 +29,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - A self-hosted app that lets you ask an AI questions about your own documents and notes. `MIT`
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Turns PDFs, Word, Excel and other files into clean Markdown that AI tools can read. `MIT`
 - [ollama/ollama](https://github.com/ollama/ollama) - Run open AI models like Llama and Gemma on your own computer with a single command. `MIT`
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - A tool that helps you train and run AI language models on your own computer using less memory. `Apache-2.0`
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - Runs open AI language models on your own servers so they can answer many requests at once. `Apache-2.0`
 
 <a id="dev"></a>
@@ -82,6 +83,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - A drag-and-drop builder for making simple company apps like admin panels and dashboards. `Apache-2.0`
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - A tool that lets you put your apps and databases online using your own servers. `Apache-2.0`
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A start page you host yourself that shows all your home server apps and their status in one place. `GPL-3.0`
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A home page you run yourself that shows news, weather, videos and server status in one screen. `AGPL-3.0`
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - A code hosting app you run on your own server to store projects, track issues and review changes. `MIT`
 - [gogs/gogs](https://github.com/gogs/gogs) - A small Git server you run on your own computer to store and share code projects. `MIT`
@@ -107,6 +109,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - Free, self-paced curriculum for learning to code, with projects and certifications. `BSD-3-Clause`
 - [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - A word list that explains hard functional programming terms with plain words and small code examples. `MIT`
+- [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - A desktop app for drawing and testing digital logic circuits, often used to learn how computers work. `GPL-3.0`
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - A free course of short lessons and quizzes that teaches the basics of working with data. `MIT`
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - Free course with lessons on the basics of building generative AI apps. `MIT`
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - A free 12-week course with lessons and quizzes that teaches the basics of machine learning. `MIT`
