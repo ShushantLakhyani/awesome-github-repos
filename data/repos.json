@@ -727,5 +727,32 @@
     "description": "A desktop app for drawing and testing digital logic circuits, often used to learn how computers work.",
     "license": "GPL-3.0",
     "added": "2026-11-06"
+  },
+  {
+    "id": 49516849,
+    "repo": "xwmx/nb",
+    "url": "https://github.com/xwmx/nb",
+    "category": "productivity",
+    "description": "A command line notebook for writing notes, saving bookmarks and keeping to-do lists in plain text.",
+    "license": "AGPL-3.0",
+    "added": "2026-11-07"
+  },
+  {
+    "id": 263452252,
+    "repo": "microsoft/fluentui-system-icons",
+    "url": "https://github.com/microsoft/fluentui-system-icons",
+    "category": "design",
+    "description": "A big free set of simple icons from Microsoft, in outline and filled styles.",
+    "license": "MIT",
+    "added": "2026-11-07"
+  },
+  {
+    "id": 60246359,
+    "repo": "ClickHouse/ClickHouse",
+    "url": "https://github.com/ClickHouse/ClickHouse",
+    "category": "data",
+    "description": "A database built to add up and sort through huge piles of data very quickly for reports.",
+    "license": "Apache-2.0",
+    "added": "2026-11-07"
   }
 ]

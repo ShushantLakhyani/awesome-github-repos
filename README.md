@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-81 repos · last checked 2026-11-06
+84 repos · last checked 2026-11-07
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -64,12 +64,14 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A note app that locks your notes with a secret code so only you can read them. `GPL-3.0`
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - A notes app where you sort notes into a tree of folders to build your own big personal wiki. `AGPL-3.0`
 - [usememos/memos](https://github.com/usememos/memos) - Lightweight self-hosted notes app for quick thoughts and journaling. `MIT`
+- [xwmx/nb](https://github.com/xwmx/nb) - A command line notebook for writing notes, saving bookmarks and keeping to-do lists in plain text. `AGPL-3.0`
 
 <a id="design"></a>
 ## Design and UI
 
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A set of React building blocks from Adobe for making web apps that everyone can use, including screen reader users. `Apache-2.0`
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching diagrams with a hand-drawn look. `MIT`
+- [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - A big free set of simple icons from Microsoft, in outline and filled styles. `MIT`
 - [mui/base-ui](https://github.com/mui/base-ui) - A set of plain React building blocks like menus and dialogs that work well for everyone. `MIT`
 - [penpot/penpot](https://github.com/penpot/penpot) - Open-source design and prototyping tool for teams, an alternative to Figma. `MPL-2.0`
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Unstyled React parts like menus and dialogs that work well with keyboards and screen readers. `MIT`
@@ -96,6 +98,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 
 - [apache/echarts](https://github.com/apache/echarts) - A JavaScript library for drawing interactive charts and graphs on web pages. `Apache-2.0`
 - [apache/superset](https://github.com/apache/superset) - Data exploration and dashboard tool for building charts straight from your databases. `Apache-2.0`
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - A database built to add up and sort through huge piles of data very quickly for reports. `Apache-2.0`
 - [d3/d3](https://github.com/d3/d3) - A JavaScript library for turning data into charts, maps and other pictures on web pages. `ISC`
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - A desktop app for browsing, editing and querying many kinds of databases. `Apache-2.0`
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - A web app where you draw database tables and links, then turn the drawing into SQL code. `AGPL-3.0`
