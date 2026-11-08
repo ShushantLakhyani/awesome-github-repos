@@ -754,5 +754,32 @@
     "description": "A database built to add up and sort through huge piles of data very quickly for reports.",
     "license": "Apache-2.0",
     "added": "2026-11-07"
+  },
+  {
+    "id": 220809393,
+    "repo": "Textualize/rich",
+    "url": "https://github.com/Textualize/rich",
+    "category": "dev",
+    "description": "A Python library that adds colours, tables, progress bars and neat formatting to terminal output.",
+    "license": "MIT",
+    "added": "2026-11-08"
+  },
+  {
+    "id": 33702544,
+    "repo": "plotly/dash",
+    "url": "https://github.com/plotly/dash",
+    "category": "data",
+    "description": "A Python framework for building interactive web dashboards with charts, sliders and dropdowns.",
+    "license": "MIT",
+    "added": "2026-11-08"
+  },
+  {
+    "id": 657119460,
+    "repo": "unovue/reka-ui",
+    "url": "https://github.com/unovue/reka-ui",
+    "category": "design",
+    "description": "A set of unstyled, accessible building blocks for making user interfaces with Vue.",
+    "license": "MIT",
+    "added": "2026-11-08"
   }
 ]

@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-84 repos · last checked 2026-11-07
+87 repos · last checked 2026-11-08
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -50,6 +50,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [prettier/prettier](https://github.com/prettier/prettier) - A tool that tidies the layout of your code so every file follows the same neat style. `MIT`
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A command line tool that shows file contents with colours, line numbers and Git changes. `Apache-2.0`
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A command line tool for finding files and folders by name using short, simple commands. `Apache-2.0`
+- [Textualize/rich](https://github.com/Textualize/rich) - A Python library that adds colours, tables, progress bars and neat formatting to terminal output. `MIT`
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - Splits one terminal window into many panes and tabs so you can run several programs side by side. `MIT`
 
 <a id="productivity"></a>
@@ -79,6 +80,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautiful React components you copy into your project and fully customise. `MIT`
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - A big free collection of simple one-colour logo icons for well-known brands, as SVG files. `CC0-1.0`
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A large free set of simple outline icons you can use in websites and apps. `MIT`
+- [unovue/reka-ui](https://github.com/unovue/reka-ui) - A set of unstyled, accessible building blocks for making user interfaces with Vue. `MIT`
 
 <a id="self-hosted"></a>
 ## Self-hosted apps
@@ -105,6 +107,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - Fast in-process database for analysing data with SQL right on your laptop. `MIT`
 - [grafana/grafana](https://github.com/grafana/grafana) - An open source tool for building dashboards with charts that show data from many sources. `AGPL-3.0`
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - A Python library that turns tables of numbers into clear charts with very little code. `BSD-3-Clause`
+- [plotly/dash](https://github.com/plotly/dash) - A Python framework for building interactive web dashboards with charts, sliders and dropdowns. `MIT`
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - A Python library that turns a short script into a web page with charts, tables and buttons. `Apache-2.0`
 
 <a id="learning"></a>
