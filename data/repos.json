@@ -781,5 +781,32 @@
     "description": "A set of unstyled, accessible building blocks for making user interfaces with Vue.",
     "license": "MIT",
     "added": "2026-11-08"
+  },
+  {
+    "id": 646410686,
+    "repo": "hiyouga/LlamaFactory",
+    "url": "https://github.com/hiyouga/LlamaFactory",
+    "category": "ai",
+    "description": "Teaches big AI language models new skills using a simple command line or web page.",
+    "license": "Apache-2.0",
+    "added": "2026-11-09"
+  },
+  {
+    "id": 180190854,
+    "repo": "appwrite/appwrite",
+    "url": "https://github.com/appwrite/appwrite",
+    "category": "self-hosted",
+    "description": "A backend you can run yourself that gives apps logins, databases, file storage and functions.",
+    "license": "BSD-3-Clause",
+    "added": "2026-11-09"
+  },
+  {
+    "id": 117356231,
+    "repo": "sharkdp/hyperfine",
+    "url": "https://github.com/sharkdp/hyperfine",
+    "category": "utilities",
+    "description": "Times terminal commands many times over and shows which one runs quicker.",
+    "license": "Apache-2.0",
+    "added": "2026-11-09"
   }
 ]

@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-87 repos · last checked 2026-11-08
+90 repos · last checked 2026-11-09
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -24,6 +24,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - Node-based app for building image and video generation workflows with open models. `GPL-3.0`
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - Fast engine for running large language models locally, even on laptops without a GPU. `MIT`
+- [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Teaches big AI language models new skills using a simple command line or web page. `Apache-2.0`
 - [huggingface/transformers](https://github.com/huggingface/transformers) - Library of ready-made AI models for text, images and audio, usable in a few lines of Python. `Apache-2.0`
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - Framework for building apps and agents on top of large language models. `MIT`
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - A self-hosted app that lets you ask an AI questions about your own documents and notes. `MIT`
@@ -86,6 +87,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 ## Self-hosted apps
 
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - A drag-and-drop builder for making simple company apps like admin panels and dashboards. `Apache-2.0`
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - A backend you can run yourself that gives apps logins, databases, file storage and functions. `BSD-3-Clause`
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - A tool that lets you put your apps and databases online using your own servers. `Apache-2.0`
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A start page you host yourself that shows all your home server apps and their status in one place. `GPL-3.0`
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A home page you run yourself that shows news, weather, videos and server status in one screen. `AGPL-3.0`
@@ -135,6 +137,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - A diary you write in the terminal that saves plain text files and can lock them with a password. `GPL-3.0`
 - [micro-editor/micro](https://github.com/micro-editor/micro) - A simple text editor that runs inside the terminal and uses the usual copy, paste and save keys. `MIT`
 - [microsoft/terminal](https://github.com/microsoft/terminal) - A modern terminal app for Windows with tabs, panes, themes and support for many shells. `MIT`
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - Times terminal commands many times over and shows which one runs quicker. `Apache-2.0`
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - A file manager that runs in the terminal and shows file and image previews. `MIT`
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Keeps files in sync across your devices directly, without any cloud service. `MPL-2.0`
 
