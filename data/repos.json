@@ -808,5 +808,32 @@
     "description": "Times terminal commands many times over and shows which one runs quicker.",
     "license": "Apache-2.0",
     "added": "2026-11-09"
+  },
+  {
+    "id": 355959597,
+    "repo": "Textualize/textual",
+    "url": "https://github.com/Textualize/textual",
+    "category": "dev",
+    "description": "A Python toolkit for making apps with buttons and menus that run inside a terminal window.",
+    "license": "MIT",
+    "added": "2026-11-10"
+  },
+  {
+    "id": 600886023,
+    "repo": "ratatui/ratatui",
+    "url": "https://github.com/ratatui/ratatui",
+    "category": "dev",
+    "description": "A Rust library for drawing dashboards, tables and charts as text inside a terminal.",
+    "license": "MIT",
+    "added": "2026-11-10"
+  },
+  {
+    "id": 260338399,
+    "repo": "vuejs/vitepress",
+    "url": "https://github.com/vuejs/vitepress",
+    "category": "dev",
+    "description": "Turns a folder of Markdown files into a documentation website built with Vue and Vite.",
+    "license": "MIT",
+    "added": "2026-11-10"
   }
 ]

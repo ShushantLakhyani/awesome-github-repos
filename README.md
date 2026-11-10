@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-90 repos · last checked 2026-11-09
+93 repos · last checked 2026-11-10
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -49,9 +49,12 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Source code of Visual Studio Code, the popular free code editor. `MIT`
 - [pa11y/pa11y](https://github.com/pa11y/pa11y) - A tool that checks web pages for problems that make them hard to use for people with disabilities. `LGPL-3.0`
 - [prettier/prettier](https://github.com/prettier/prettier) - A tool that tidies the layout of your code so every file follows the same neat style. `MIT`
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust library for drawing dashboards, tables and charts as text inside a terminal. `MIT`
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A command line tool that shows file contents with colours, line numbers and Git changes. `Apache-2.0`
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A command line tool for finding files and folders by name using short, simple commands. `Apache-2.0`
 - [Textualize/rich](https://github.com/Textualize/rich) - A Python library that adds colours, tables, progress bars and neat formatting to terminal output. `MIT`
+- [Textualize/textual](https://github.com/Textualize/textual) - A Python toolkit for making apps with buttons and menus that run inside a terminal window. `MIT`
+- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Turns a folder of Markdown files into a documentation website built with Vue and Vite. `MIT`
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - Splits one terminal window into many panes and tabs so you can run several programs side by side. `MIT`
 
 <a id="productivity"></a>
