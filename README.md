@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-93 repos · last checked 2026-11-10
+96 repos · last checked 2026-11-11
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -38,6 +38,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A terminal app for typing commands that draws text using your graphics card and is set up with a config file. `Apache-2.0`
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - Very fast command-line tool for searching text across files and folders. `Unlicense`
+- [chalk/chalk](https://github.com/chalk/chalk) - JavaScript library that adds colours and text styles to the output of terminal programs. `MIT`
 - [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - A testing library that checks web pages for problems that make them hard to use for people with disabilities. `MPL-2.0`
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - A tool that shows a folder of Markdown files as a documentation website without a build step. `MIT`
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Lightweight tool for testing APIs in the browser, an open alternative to Postman. `MIT`
@@ -46,6 +47,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [junegunn/fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder for quickly picking files, past commands and more. `MIT`
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - A checker that reads your shell scripts and points out mistakes before you run them. `GPL-3.0`
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - A JavaScript library that turns Markdown text into HTML and lets you add your own rules. `MIT`
+- [mdx-js/mdx](https://github.com/mdx-js/mdx) - Lets you place interactive JSX components inside Markdown documents and compiles them to JavaScript. `MIT`
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Source code of Visual Studio Code, the popular free code editor. `MIT`
 - [pa11y/pa11y](https://github.com/pa11y/pa11y) - A tool that checks web pages for problems that make them hard to use for people with disabilities. `LGPL-3.0`
 - [prettier/prettier](https://github.com/prettier/prettier) - A tool that tidies the layout of your code so every file follows the same neat style. `MIT`
@@ -136,6 +138,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - A browser add-on that turns bright web pages dark so they are easier on your eyes. `MIT`
 - [docling-project/docling](https://github.com/docling-project/docling) - Turns files like PDFs, Word documents and slides into clean text, Markdown or JSON. `MIT`
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal app with tabs, split panes and saved connections to other computers. `MIT`
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Shows your computer's system details, like OS, CPU and memory, in a neat terminal summary. `MIT`
 - [jgm/pandoc](https://github.com/jgm/pandoc) - A command-line tool that turns documents from one format into another, like Markdown into Word or PDF. `GPL-2.0`
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - A diary you write in the terminal that saves plain text files and can lock them with a password. `GPL-3.0`
 - [micro-editor/micro](https://github.com/micro-editor/micro) - A simple text editor that runs inside the terminal and uses the usual copy, paste and save keys. `MIT`

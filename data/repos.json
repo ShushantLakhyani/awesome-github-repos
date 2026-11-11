@@ -835,5 +835,32 @@
     "description": "Turns a folder of Markdown files into a documentation website built with Vue and Vite.",
     "license": "MIT",
     "added": "2026-11-10"
+  },
+  {
+    "id": 340181518,
+    "repo": "fastfetch-cli/fastfetch",
+    "url": "https://github.com/fastfetch-cli/fastfetch",
+    "category": "utilities",
+    "description": "Shows your computer's system details, like OS, CPU and memory, in a neat terminal summary.",
+    "license": "MIT",
+    "added": "2026-11-11"
+  },
+  {
+    "id": 11855195,
+    "repo": "chalk/chalk",
+    "url": "https://github.com/chalk/chalk",
+    "category": "dev",
+    "description": "JavaScript library that adds colours and text styles to the output of terminal programs.",
+    "license": "MIT",
+    "added": "2026-11-11"
+  },
+  {
+    "id": 115229134,
+    "repo": "mdx-js/mdx",
+    "url": "https://github.com/mdx-js/mdx",
+    "category": "dev",
+    "description": "Lets you place interactive JSX components inside Markdown documents and compiles them to JavaScript.",
+    "license": "MIT",
+    "added": "2026-11-11"
   }
 ]
