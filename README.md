@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-96 repos · last checked 2026-11-11
+99 repos · last checked 2026-11-12
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -48,7 +48,9 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - A checker that reads your shell scripts and points out mistakes before you run them. `GPL-3.0`
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - A JavaScript library that turns Markdown text into HTML and lets you add your own rules. `MIT`
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Lets you place interactive JSX components inside Markdown documents and compiles them to JavaScript. `MIT`
+- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A code editor that runs inside a web page, the same one that powers VS Code. `MIT`
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Source code of Visual Studio Code, the popular free code editor. `MIT`
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - A set of themes, plugins and shortcuts that make the Zsh command line easier to use. `MIT`
 - [pa11y/pa11y](https://github.com/pa11y/pa11y) - A tool that checks web pages for problems that make them hard to use for people with disabilities. `LGPL-3.0`
 - [prettier/prettier](https://github.com/prettier/prettier) - A tool that tidies the layout of your code so every file follows the same neat style. `MIT`
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust library for drawing dashboards, tables and charts as text inside a terminal. `MIT`
@@ -67,6 +69,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [marktext/marktext](https://github.com/marktext/marktext) - A desktop writing app for Markdown that shows formatted text as you type, for Windows, Mac and Linux. `MIT`
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A free app that helps you make a neat resume and cover letter in your browser. `MIT`
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - A notes app in your browser where pages link to each other and small scripts can build lists for you. `MIT`
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A private note and knowledge app that you can run on your own computer or server. `AGPL-3.0`
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - A tool that turns a plain Markdown text file into a slide show you can present in the browser. `MIT`
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A note app that locks your notes with a secret code so only you can read them. `GPL-3.0`
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - A notes app where you sort notes into a tree of folders to build your own big personal wiki. `AGPL-3.0`

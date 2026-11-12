@@ -862,5 +862,32 @@
     "description": "Lets you place interactive JSX components inside Markdown documents and compiles them to JavaScript.",
     "license": "MIT",
     "added": "2026-11-11"
+  },
+  {
+    "id": 291137,
+    "repo": "ohmyzsh/ohmyzsh",
+    "url": "https://github.com/ohmyzsh/ohmyzsh",
+    "category": "dev",
+    "description": "A set of themes, plugins and shortcuts that make the Zsh command line easier to use.",
+    "license": "MIT",
+    "added": "2026-11-12"
+  },
+  {
+    "id": 291438522,
+    "repo": "siyuan-note/siyuan",
+    "url": "https://github.com/siyuan-note/siyuan",
+    "category": "productivity",
+    "description": "A private note and knowledge app that you can run on your own computer or server.",
+    "license": "AGPL-3.0",
+    "added": "2026-11-12"
+  },
+  {
+    "id": 60630844,
+    "repo": "microsoft/monaco-editor",
+    "url": "https://github.com/microsoft/monaco-editor",
+    "category": "dev",
+    "description": "A code editor that runs inside a web page, the same one that powers VS Code.",
+    "license": "MIT",
+    "added": "2026-11-12"
   }
 ]
