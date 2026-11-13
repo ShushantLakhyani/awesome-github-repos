@@ -889,5 +889,32 @@
     "description": "A code editor that runs inside a web page, the same one that powers VS Code.",
     "license": "MIT",
     "added": "2026-11-12"
+  },
+  {
+    "id": 237791077,
+    "repo": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "category": "dev",
+    "description": "Lets you draw pictures of cloud systems by writing short Python code instead of dragging boxes.",
+    "license": "MIT",
+    "added": "2026-11-13"
+  },
+  {
+    "id": 11180687,
+    "repo": "gohugoio/hugo",
+    "url": "https://github.com/gohugoio/hugo",
+    "category": "dev",
+    "description": "Turns folders of text files into a full website you can put online with no server code.",
+    "license": "Apache-2.0",
+    "added": "2026-11-13"
+  },
+  {
+    "id": 16238673,
+    "repo": "kanboard/kanboard",
+    "url": "https://github.com/kanboard/kanboard",
+    "category": "self-hosted",
+    "description": "A simple task board you run yourself, where cards move across columns as work gets done.",
+    "license": "MIT",
+    "added": "2026-11-13"
   }
 ]

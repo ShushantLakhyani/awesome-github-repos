@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-99 repos · last checked 2026-11-12
+102 repos · last checked 2026-11-13
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -41,6 +41,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [chalk/chalk](https://github.com/chalk/chalk) - JavaScript library that adds colours and text styles to the output of terminal programs. `MIT`
 - [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - A testing library that checks web pages for problems that make them hard to use for people with disabilities. `MPL-2.0`
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - A tool that shows a folder of Markdown files as a documentation website without a build step. `MIT`
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - Turns folders of text files into a full website you can put online with no server code. `Apache-2.0`
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Lightweight tool for testing APIs in the browser, an open alternative to Postman. `MIT`
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - A tool that turns plain text and Markdown files into a ready-to-host website or blog. `MIT`
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - Simple terminal interface for Git that makes staging, committing and branching faster. `MIT`
@@ -50,6 +51,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Lets you place interactive JSX components inside Markdown documents and compiles them to JavaScript. `MIT`
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A code editor that runs inside a web page, the same one that powers VS Code. `MIT`
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Source code of Visual Studio Code, the popular free code editor. `MIT`
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - Lets you draw pictures of cloud systems by writing short Python code instead of dragging boxes. `MIT`
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - A set of themes, plugins and shortcuts that make the Zsh command line easier to use. `MIT`
 - [pa11y/pa11y](https://github.com/pa11y/pa11y) - A tool that checks web pages for problems that make them hard to use for people with disabilities. `LGPL-3.0`
 - [prettier/prettier](https://github.com/prettier/prettier) - A tool that tidies the layout of your code so every file follows the same neat style. `MIT`
@@ -102,6 +104,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - A code hosting app you run on your own server to store projects, track issues and review changes. `MIT`
 - [gogs/gogs](https://github.com/gogs/gogs) - A small Git server you run on your own computer to store and share code projects. `MIT`
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup, an alternative to Google Photos. `AGPL-3.0`
+- [kanboard/kanboard](https://github.com/kanboard/kanboard) - A simple task board you run yourself, where cards move across columns as work gets done. `MIT`
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A tool you run yourself that checks if your websites are up and alerts you when one goes down. `MIT`
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - Scans, reads and organises your paper documents into a searchable archive. `GPL-3.0`
 
