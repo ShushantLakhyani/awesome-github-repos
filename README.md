@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-102 repos · last checked 2026-11-13
+105 repos · last checked 2026-11-14
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -83,6 +83,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A set of React building blocks from Adobe for making web apps that everyone can use, including screen reader users. `Apache-2.0`
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching diagrams with a hand-drawn look. `MIT`
+- [markmead/hyperui](https://github.com/markmead/hyperui) - Ready-made Tailwind CSS page parts you can copy and paste into your own website. `MIT`
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - A big free set of simple icons from Microsoft, in outline and filled styles. `MIT`
 - [mui/base-ui](https://github.com/mui/base-ui) - A set of plain React building blocks like menus and dialogs that work well for everyone. `MIT`
 - [penpot/penpot](https://github.com/penpot/penpot) - Open-source design and prototyping tool for teams, an alternative to Figma. `MPL-2.0`
@@ -91,6 +92,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautiful React components you copy into your project and fully customise. `MIT`
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - A big free collection of simple one-colour logo icons for well-known brands, as SVG files. `CC0-1.0`
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A large free set of simple outline icons you can use in websites and apps. `MIT`
+- [twbs/icons](https://github.com/twbs/icons) - A free set of more than 2,000 simple SVG icons made for the Bootstrap toolkit. `MIT`
 - [unovue/reka-ui](https://github.com/unovue/reka-ui) - A set of unstyled, accessible building blocks for making user interfaces with Vue. `MIT`
 
 <a id="self-hosted"></a>
@@ -128,6 +130,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - Free, self-paced curriculum for learning to code, with projects and certifications. `BSD-3-Clause`
 - [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - A word list that explains hard functional programming terms with plain words and small code examples. `MIT`
+- [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) - A notebook for the Julia language where every cell updates on its own when you change code. `MIT`
 - [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - A desktop app for drawing and testing digital logic circuits, often used to learn how computers work. `GPL-3.0`
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - A free course of short lessons and quizzes that teaches the basics of working with data. `MIT`
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - Free course with lessons on the basics of building generative AI apps. `MIT`

@@ -916,5 +916,32 @@
     "description": "A simple task board you run yourself, where cards move across columns as work gets done.",
     "license": "MIT",
     "added": "2026-11-13"
+  },
+  {
+    "id": 427439360,
+    "repo": "markmead/hyperui",
+    "url": "https://github.com/markmead/hyperui",
+    "category": "design",
+    "description": "Ready-made Tailwind CSS page parts you can copy and paste into your own website.",
+    "license": "MIT",
+    "added": "2026-11-14"
+  },
+  {
+    "id": 198878888,
+    "repo": "twbs/icons",
+    "url": "https://github.com/twbs/icons",
+    "category": "design",
+    "description": "A free set of more than 2,000 simple SVG icons made for the Bootstrap toolkit.",
+    "license": "MIT",
+    "added": "2026-11-14"
+  },
+  {
+    "id": 242439725,
+    "repo": "JuliaPluto/Pluto.jl",
+    "url": "https://github.com/JuliaPluto/Pluto.jl",
+    "category": "learning",
+    "description": "A notebook for the Julia language where every cell updates on its own when you change code.",
+    "license": "MIT",
+    "added": "2026-11-14"
   }
 ]
