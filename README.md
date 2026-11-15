@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-105 repos · last checked 2026-11-14
+110 repos · last checked 2026-11-15
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -54,12 +54,14 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - Lets you draw pictures of cloud systems by writing short Python code instead of dragging boxes. `MIT`
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - A set of themes, plugins and shortcuts that make the Zsh command line easier to use. `MIT`
 - [pa11y/pa11y](https://github.com/pa11y/pa11y) - A tool that checks web pages for problems that make them hard to use for people with disabilities. `LGPL-3.0`
+- [pixijs/pixijs](https://github.com/pixijs/pixijs) - A library for drawing fast 2D graphics and interactive content in the web browser. `MIT`
 - [prettier/prettier](https://github.com/prettier/prettier) - A tool that tidies the layout of your code so every file follows the same neat style. `MIT`
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust library for drawing dashboards, tables and charts as text inside a terminal. `MIT`
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A command line tool that shows file contents with colours, line numbers and Git changes. `Apache-2.0`
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A command line tool for finding files and folders by name using short, simple commands. `Apache-2.0`
 - [Textualize/rich](https://github.com/Textualize/rich) - A Python library that adds colours, tables, progress bars and neat formatting to terminal output. `MIT`
 - [Textualize/textual](https://github.com/Textualize/textual) - A Python toolkit for making apps with buttons and menus that run inside a terminal window. `MIT`
+- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - A toolkit for building rich text editors that you can shape to fit your site. `MIT`
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Turns a folder of Markdown files into a documentation website built with Vue and Vite. `MIT`
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - Splits one terminal window into many panes and tabs so you can run several programs side by side. `MIT`
 
@@ -82,6 +84,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 ## Design and UI
 
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A set of React building blocks from Adobe for making web apps that everyone can use, including screen reader users. `Apache-2.0`
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - A set of ready made parts for building web app screens with React. `MIT`
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching diagrams with a hand-drawn look. `MIT`
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Ready-made Tailwind CSS page parts you can copy and paste into your own website. `MIT`
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - A big free set of simple icons from Microsoft, in outline and filled styles. `MIT`
@@ -115,11 +118,13 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 
 - [apache/echarts](https://github.com/apache/echarts) - A JavaScript library for drawing interactive charts and graphs on web pages. `Apache-2.0`
 - [apache/superset](https://github.com/apache/superset) - Data exploration and dashboard tool for building charts straight from your databases. `Apache-2.0`
+- [chartdb/chartdb](https://github.com/chartdb/chartdb) - A web tool for drawing and understanding database layouts as simple diagrams. `AGPL-3.0`
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - A database built to add up and sort through huge piles of data very quickly for reports. `Apache-2.0`
 - [d3/d3](https://github.com/d3/d3) - A JavaScript library for turning data into charts, maps and other pictures on web pages. `ISC`
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - A desktop app for browsing, editing and querying many kinds of databases. `Apache-2.0`
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - A web app where you draw database tables and links, then turn the drawing into SQL code. `AGPL-3.0`
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - Fast in-process database for analysing data with SQL right on your laptop. `MIT`
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - A Python library for making simple web pages to try out and share machine learning models. `Apache-2.0`
 - [grafana/grafana](https://github.com/grafana/grafana) - An open source tool for building dashboards with charts that show data from many sources. `AGPL-3.0`
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - A Python library that turns tables of numbers into clear charts with very little code. `BSD-3-Clause`
 - [plotly/dash](https://github.com/plotly/dash) - A Python framework for building interactive web dashboards with charts, sliders and dropdowns. `MIT`

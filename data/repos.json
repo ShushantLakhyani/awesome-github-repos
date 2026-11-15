@@ -943,5 +943,50 @@
     "description": "A notebook for the Julia language where every cell updates on its own when you change code.",
     "license": "MIT",
     "added": "2026-11-14"
+  },
+  {
+    "id": 202890778,
+    "repo": "chakra-ui/chakra-ui",
+    "url": "https://github.com/chakra-ui/chakra-ui",
+    "category": "design",
+    "description": "A set of ready made parts for building web app screens with React.",
+    "license": "MIT",
+    "added": "2026-11-15"
+  },
+  {
+    "id": 145464445,
+    "repo": "ueberdosis/tiptap",
+    "url": "https://github.com/ueberdosis/tiptap",
+    "category": "dev",
+    "description": "A toolkit for building rich text editors that you can shape to fit your site.",
+    "license": "MIT",
+    "added": "2026-11-15"
+  },
+  {
+    "id": 838212912,
+    "repo": "chartdb/chartdb",
+    "url": "https://github.com/chartdb/chartdb",
+    "category": "data",
+    "description": "A web tool for drawing and understanding database layouts as simple diagrams.",
+    "license": "AGPL-3.0",
+    "added": "2026-11-15"
+  },
+  {
+    "id": 162405963,
+    "repo": "gradio-app/gradio",
+    "url": "https://github.com/gradio-app/gradio",
+    "category": "data",
+    "description": "A Python library for making simple web pages to try out and share machine learning models.",
+    "license": "Apache-2.0",
+    "added": "2026-11-15"
+  },
+  {
+    "id": 7741856,
+    "repo": "pixijs/pixijs",
+    "url": "https://github.com/pixijs/pixijs",
+    "category": "dev",
+    "description": "A library for drawing fast 2D graphics and interactive content in the web browser.",
+    "license": "MIT",
+    "added": "2026-11-15"
   }
 ]
