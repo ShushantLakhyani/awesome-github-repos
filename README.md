@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-110 repos · last checked 2026-11-15
+113 repos · last checked 2026-11-16
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -22,6 +22,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 <a id="ai"></a>
 ## AI and language models
 
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A desktop app that turns your speech into typed text on your own computer, with no internet needed. `MIT`
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - Node-based app for building image and video generation workflows with open models. `GPL-3.0`
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - Fast engine for running large language models locally, even on laptops without a GPU. `MIT`
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Teaches big AI language models new skills using a simple command line or web page. `Apache-2.0`
@@ -70,6 +71,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Open-source workspace for notes, tasks and wikis, similar to Notion. `AGPL-3.0`
 - [freeplane/freeplane](https://github.com/freeplane/freeplane) - A free desktop app for drawing mind maps to plan ideas, notes and projects. `GPL-2.0`
+- [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - A notes app for Mac and iPhone that keeps each note as a plain Markdown file you own. `MIT`
 - [marktext/marktext](https://github.com/marktext/marktext) - A desktop writing app for Markdown that shows formatted text as you type, for Windows, Mac and Linux. `MIT`
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A free app that helps you make a neat resume and cover letter in your browser. `MIT`
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - A notes app in your browser where pages link to each other and small scripts can build lists for you. `MIT`
@@ -94,6 +96,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - Ready-made buttons, cards and other page parts that plug into Tailwind CSS with simple class names. `MIT`
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautiful React components you copy into your project and fully customise. `MIT`
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - A big free collection of simple one-colour logo icons for well-known brands, as SVG files. `CC0-1.0`
+- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A set of ready-made website parts and themes built on Tailwind CSS for popular web frameworks. `MIT`
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A large free set of simple outline icons you can use in websites and apps. `MIT`
 - [twbs/icons](https://github.com/twbs/icons) - A free set of more than 2,000 simple SVG icons made for the Bootstrap toolkit. `MIT`
 - [unovue/reka-ui](https://github.com/unovue/reka-ui) - A set of unstyled, accessible building blocks for making user interfaces with Vue. `MIT`

@@ -988,5 +988,32 @@
     "description": "A library for drawing fast 2D graphics and interactive content in the web browser.",
     "license": "MIT",
     "added": "2026-11-15"
+  },
+  {
+    "id": 931888694,
+    "repo": "cjpais/Handy",
+    "url": "https://github.com/cjpais/Handy",
+    "category": "ai",
+    "description": "A desktop app that turns your speech into typed text on your own computer, with no internet needed.",
+    "license": "MIT",
+    "added": "2026-11-16"
+  },
+  {
+    "id": 462808010,
+    "repo": "skeletonlabs/skeleton",
+    "url": "https://github.com/skeletonlabs/skeleton",
+    "category": "design",
+    "description": "A set of ready-made website parts and themes built on Tailwind CSS for popular web frameworks.",
+    "license": "MIT",
+    "added": "2026-11-16"
+  },
+  {
+    "id": 97860533,
+    "repo": "glushchenko/fsnotes",
+    "url": "https://github.com/glushchenko/fsnotes",
+    "category": "productivity",
+    "description": "A notes app for Mac and iPhone that keeps each note as a plain Markdown file you own.",
+    "license": "MIT",
+    "added": "2026-11-16"
   }
 ]
