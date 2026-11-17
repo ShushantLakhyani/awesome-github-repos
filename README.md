@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-113 repos · last checked 2026-11-16
+116 repos · last checked 2026-11-17
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -52,10 +52,12 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Lets you place interactive JSX components inside Markdown documents and compiles them to JavaScript. `MIT`
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A code editor that runs inside a web page, the same one that powers VS Code. `MIT`
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Source code of Visual Studio Code, the popular free code editor. `MIT`
+- [mikefarah/yq](https://github.com/mikefarah/yq) - A command line tool for reading and editing YAML, JSON, XML and CSV files. `MIT`
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - Lets you draw pictures of cloud systems by writing short Python code instead of dragging boxes. `MIT`
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - A set of themes, plugins and shortcuts that make the Zsh command line easier to use. `MIT`
 - [pa11y/pa11y](https://github.com/pa11y/pa11y) - A tool that checks web pages for problems that make them hard to use for people with disabilities. `LGPL-3.0`
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - A library for drawing fast 2D graphics and interactive content in the web browser. `MIT`
+- [plantuml/plantuml](https://github.com/plantuml/plantuml) - Turns short lines of plain text into diagrams such as flow charts. `LGPL-3.0`
 - [prettier/prettier](https://github.com/prettier/prettier) - A tool that tidies the layout of your code so every file follows the same neat style. `MIT`
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust library for drawing dashboards, tables and charts as text inside a terminal. `MIT`
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A command line tool that shows file contents with colours, line numbers and Git changes. `Apache-2.0`
@@ -131,6 +133,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [grafana/grafana](https://github.com/grafana/grafana) - An open source tool for building dashboards with charts that show data from many sources. `AGPL-3.0`
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - A Python library that turns tables of numbers into clear charts with very little code. `BSD-3-Clause`
 - [plotly/dash](https://github.com/plotly/dash) - A Python framework for building interactive web dashboards with charts, sliders and dropdowns. `MIT`
+- [simonw/datasette](https://github.com/simonw/datasette) - A tool for exploring data and sharing it online as a simple website. `Apache-2.0`
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - A Python library that turns a short script into a web page with charts, tables and buttons. `Apache-2.0`
 
 <a id="learning"></a>

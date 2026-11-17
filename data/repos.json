@@ -1015,5 +1015,32 @@
     "description": "A notes app for Mac and iPhone that keeps each note as a plain Markdown file you own.",
     "license": "MIT",
     "added": "2026-11-16"
+  },
+  {
+    "id": 43225113,
+    "repo": "mikefarah/yq",
+    "url": "https://github.com/mikefarah/yq",
+    "category": "dev",
+    "description": "A command line tool for reading and editing YAML, JSON, XML and CSV files.",
+    "license": "MIT",
+    "added": "2026-11-17"
+  },
+  {
+    "id": 107914493,
+    "repo": "simonw/datasette",
+    "url": "https://github.com/simonw/datasette",
+    "category": "data",
+    "description": "A tool for exploring data and sharing it online as a simple website.",
+    "license": "Apache-2.0",
+    "added": "2026-11-17"
+  },
+  {
+    "id": 1051476,
+    "repo": "plantuml/plantuml",
+    "url": "https://github.com/plantuml/plantuml",
+    "category": "dev",
+    "description": "Turns short lines of plain text into diagrams such as flow charts.",
+    "license": "LGPL-3.0",
+    "added": "2026-11-17"
   }
 ]
