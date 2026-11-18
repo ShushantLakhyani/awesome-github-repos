@@ -1042,5 +1042,32 @@
     "description": "Turns short lines of plain text into diagrams such as flow charts.",
     "license": "LGPL-3.0",
     "added": "2026-11-17"
+  },
+  {
+    "id": 71056775,
+    "repo": "kovidgoyal/kitty",
+    "url": "https://github.com/kovidgoyal/kitty",
+    "category": "utilities",
+    "description": "A fast terminal app for typing commands, with support for tabs, windows and images.",
+    "license": "GPL-3.0",
+    "added": "2026-11-18"
+  },
+  {
+    "id": 11829145,
+    "repo": "basecamp/trix",
+    "url": "https://github.com/basecamp/trix",
+    "category": "dev",
+    "description": "A text box for web pages that lets people write formatted text like bold and lists.",
+    "license": "MIT",
+    "added": "2026-11-18"
+  },
+  {
+    "id": 47039255,
+    "repo": "codex-team/editor.js",
+    "url": "https://github.com/codex-team/editor.js",
+    "category": "dev",
+    "description": "A block-based text editor for web pages that saves what you write as clean data.",
+    "license": "Apache-2.0",
+    "added": "2026-11-18"
   }
 ]

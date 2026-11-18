@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-116 repos · last checked 2026-11-17
+119 repos · last checked 2026-11-18
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -38,8 +38,10 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 ## Developer tools
 
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A terminal app for typing commands that draws text using your graphics card and is set up with a config file. `Apache-2.0`
+- [basecamp/trix](https://github.com/basecamp/trix) - A text box for web pages that lets people write formatted text like bold and lists. `MIT`
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - Very fast command-line tool for searching text across files and folders. `Unlicense`
 - [chalk/chalk](https://github.com/chalk/chalk) - JavaScript library that adds colours and text styles to the output of terminal programs. `MIT`
+- [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-based text editor for web pages that saves what you write as clean data. `Apache-2.0`
 - [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - A testing library that checks web pages for problems that make them hard to use for people with disabilities. `MPL-2.0`
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - A tool that shows a folder of Markdown files as a documentation website without a build step. `MIT`
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - Turns folders of text files into a full website you can put online with no server code. `Apache-2.0`
@@ -161,6 +163,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Shows your computer's system details, like OS, CPU and memory, in a neat terminal summary. `MIT`
 - [jgm/pandoc](https://github.com/jgm/pandoc) - A command-line tool that turns documents from one format into another, like Markdown into Word or PDF. `GPL-2.0`
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - A diary you write in the terminal that saves plain text files and can lock them with a password. `GPL-3.0`
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - A fast terminal app for typing commands, with support for tabs, windows and images. `GPL-3.0`
 - [micro-editor/micro](https://github.com/micro-editor/micro) - A simple text editor that runs inside the terminal and uses the usual copy, paste and save keys. `MIT`
 - [microsoft/terminal](https://github.com/microsoft/terminal) - A modern terminal app for Windows with tabs, panes, themes and support for many shells. `MIT`
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - Times terminal commands many times over and shows which one runs quicker. `Apache-2.0`
