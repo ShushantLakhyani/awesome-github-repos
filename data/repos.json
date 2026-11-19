@@ -1069,5 +1069,32 @@
     "description": "A block-based text editor for web pages that saves what you write as clean data.",
     "license": "Apache-2.0",
     "added": "2026-11-18"
+  },
+  {
+    "id": 23083156,
+    "repo": "mui/material-ui",
+    "url": "https://github.com/mui/material-ui",
+    "category": "design",
+    "description": "A set of ready-made React parts for building web pages in Material Design.",
+    "license": "MIT",
+    "added": "2026-11-19"
+  },
+  {
+    "id": 32551735,
+    "repo": "primer/css",
+    "url": "https://github.com/primer/css",
+    "category": "design",
+    "description": "The style sheet code behind GitHub's look, for building web pages.",
+    "license": "MIT",
+    "added": "2026-11-19"
+  },
+  {
+    "id": 70038437,
+    "repo": "vnotex/vnote",
+    "url": "https://github.com/vnotex/vnote",
+    "category": "productivity",
+    "description": "A note-taking app for writing in Markdown and plain text.",
+    "license": "LGPL-3.0",
+    "added": "2026-11-19"
   }
 ]

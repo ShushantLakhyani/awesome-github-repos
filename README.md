@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-119 repos · last checked 2026-11-18
+122 repos · last checked 2026-11-19
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -84,6 +84,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A note app that locks your notes with a secret code so only you can read them. `GPL-3.0`
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - A notes app where you sort notes into a tree of folders to build your own big personal wiki. `AGPL-3.0`
 - [usememos/memos](https://github.com/usememos/memos) - Lightweight self-hosted notes app for quick thoughts and journaling. `MIT`
+- [vnotex/vnote](https://github.com/vnotex/vnote) - A note-taking app for writing in Markdown and plain text. `LGPL-3.0`
 - [xwmx/nb](https://github.com/xwmx/nb) - A command line notebook for writing notes, saving bookmarks and keeping to-do lists in plain text. `AGPL-3.0`
 
 <a id="design"></a>
@@ -95,7 +96,9 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Ready-made Tailwind CSS page parts you can copy and paste into your own website. `MIT`
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - A big free set of simple icons from Microsoft, in outline and filled styles. `MIT`
 - [mui/base-ui](https://github.com/mui/base-ui) - A set of plain React building blocks like menus and dialogs that work well for everyone. `MIT`
+- [mui/material-ui](https://github.com/mui/material-ui) - A set of ready-made React parts for building web pages in Material Design. `MIT`
 - [penpot/penpot](https://github.com/penpot/penpot) - Open-source design and prototyping tool for teams, an alternative to Figma. `MPL-2.0`
+- [primer/css](https://github.com/primer/css) - The style sheet code behind GitHub's look, for building web pages. `MIT`
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Unstyled React parts like menus and dialogs that work well with keyboards and screen readers. `MIT`
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - Ready-made buttons, cards and other page parts that plug into Tailwind CSS with simple class names. `MIT`
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautiful React components you copy into your project and fully customise. `MIT`
