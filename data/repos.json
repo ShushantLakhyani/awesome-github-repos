@@ -1096,5 +1096,32 @@
     "description": "A note-taking app for writing in Markdown and plain text.",
     "license": "LGPL-3.0",
     "added": "2026-11-19"
+  },
+  {
+    "id": 94498635,
+    "repo": "carbon-app/carbon",
+    "url": "https://github.com/carbon-app/carbon",
+    "category": "design",
+    "description": "Turns a piece of code into a neat picture you can share.",
+    "license": "MIT",
+    "added": "2026-11-20"
+  },
+  {
+    "id": 108505982,
+    "repo": "mortbopet/Ripes",
+    "url": "https://github.com/mortbopet/Ripes",
+    "category": "learning",
+    "description": "Shows step by step how a simple RISC-V computer chip runs code.",
+    "license": "MIT",
+    "added": "2026-11-20"
+  },
+  {
+    "id": 51509291,
+    "repo": "KittyGiraudel/a11y-dialog",
+    "url": "https://github.com/KittyGiraudel/a11y-dialog",
+    "category": "dev",
+    "description": "A small script for making pop-up boxes on websites that everyone can use.",
+    "license": "MIT",
+    "added": "2026-11-20"
   }
 ]

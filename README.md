@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-122 repos · last checked 2026-11-19
+125 repos · last checked 2026-11-20
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -49,6 +49,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - A tool that turns plain text and Markdown files into a ready-to-host website or blog. `MIT`
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - Simple terminal interface for Git that makes staging, committing and branching faster. `MIT`
 - [junegunn/fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder for quickly picking files, past commands and more. `MIT`
+- [KittyGiraudel/a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A small script for making pop-up boxes on websites that everyone can use. `MIT`
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - A checker that reads your shell scripts and points out mistakes before you run them. `GPL-3.0`
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - A JavaScript library that turns Markdown text into HTML and lets you add your own rules. `MIT`
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Lets you place interactive JSX components inside Markdown documents and compiles them to JavaScript. `MIT`
@@ -91,6 +92,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 ## Design and UI
 
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A set of React building blocks from Adobe for making web apps that everyone can use, including screen reader users. `Apache-2.0`
+- [carbon-app/carbon](https://github.com/carbon-app/carbon) - Turns a piece of code into a neat picture you can share. `MIT`
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - A set of ready made parts for building web app screens with React. `MIT`
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching diagrams with a hand-drawn look. `MIT`
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Ready-made Tailwind CSS page parts you can copy and paste into your own website. `MIT`
@@ -152,6 +154,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - Free course with lessons on the basics of building generative AI apps. `MIT`
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - A free 12-week course with lessons and quizzes that teaches the basics of machine learning. `MIT`
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - A free course of short lessons that teaches how to build web pages with HTML, CSS and JavaScript. `MIT`
+- [mortbopet/Ripes](https://github.com/mortbopet/Ripes) - Shows step by step how a simple RISC-V computer chip runs code. `MIT`
 - [oppia/oppia](https://github.com/oppia/oppia) - A free learning platform where anyone can build lessons that feel like chatting with a tutor. `Apache-2.0`
 - [processing/p5.js](https://github.com/processing/p5.js) - A JavaScript library that makes it easy to draw shapes and make art with code in a web page. `LGPL-2.1`
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - Large collection of common algorithms written in Python for learning. `MIT`
