@@ -1123,5 +1123,32 @@
     "description": "A small script for making pop-up boxes on websites that everyone can use.",
     "license": "MIT",
     "added": "2026-11-20"
+  },
+  {
+    "id": 7716883,
+    "repo": "ankidroid/Anki-Android",
+    "url": "https://github.com/ankidroid/Anki-Android",
+    "category": "learning",
+    "description": "A free app for Android phones that quizzes you with flashcards so facts stick in memory.",
+    "license": "GPL-3.0",
+    "added": "2026-11-21"
+  },
+  {
+    "id": 26066727,
+    "repo": "mermaid-js/mermaid",
+    "url": "https://github.com/mermaid-js/mermaid",
+    "category": "dev",
+    "description": "A tool that draws flowcharts and other diagrams from simple typed text.",
+    "license": "MIT",
+    "added": "2026-11-21"
+  },
+  {
+    "id": 494602314,
+    "repo": "kanriapp/kanri",
+    "url": "https://github.com/kanriapp/kanri",
+    "category": "productivity",
+    "description": "A desktop app for making Kanban task boards that works offline without needing an account.",
+    "license": "GPL-3.0",
+    "added": "2026-11-21"
   }
 ]

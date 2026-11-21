@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-125 repos · last checked 2026-11-20
+128 repos · last checked 2026-11-21
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -53,6 +53,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - A checker that reads your shell scripts and points out mistakes before you run them. `GPL-3.0`
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - A JavaScript library that turns Markdown text into HTML and lets you add your own rules. `MIT`
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Lets you place interactive JSX components inside Markdown documents and compiles them to JavaScript. `MIT`
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - A tool that draws flowcharts and other diagrams from simple typed text. `MIT`
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A code editor that runs inside a web page, the same one that powers VS Code. `MIT`
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Source code of Visual Studio Code, the popular free code editor. `MIT`
 - [mikefarah/yq](https://github.com/mikefarah/yq) - A command line tool for reading and editing YAML, JSON, XML and CSV files. `MIT`
@@ -77,6 +78,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Open-source workspace for notes, tasks and wikis, similar to Notion. `AGPL-3.0`
 - [freeplane/freeplane](https://github.com/freeplane/freeplane) - A free desktop app for drawing mind maps to plan ideas, notes and projects. `GPL-2.0`
 - [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - A notes app for Mac and iPhone that keeps each note as a plain Markdown file you own. `MIT`
+- [kanriapp/kanri](https://github.com/kanriapp/kanri) - A desktop app for making Kanban task boards that works offline without needing an account. `GPL-3.0`
 - [marktext/marktext](https://github.com/marktext/marktext) - A desktop writing app for Markdown that shows formatted text as you type, for Windows, Mac and Linux. `MIT`
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A free app that helps you make a neat resume and cover letter in your browser. `MIT`
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - A notes app in your browser where pages link to each other and small scripts can build lists for you. `MIT`
@@ -146,6 +148,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 <a id="learning"></a>
 ## Learning
 
+- [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - A free app for Android phones that quizzes you with flashcards so facts stick in memory. `GPL-3.0`
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - Free, self-paced curriculum for learning to code, with projects and certifications. `BSD-3-Clause`
 - [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - A word list that explains hard functional programming terms with plain words and small code examples. `MIT`
 - [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) - A notebook for the Julia language where every cell updates on its own when you change code. `MIT`
