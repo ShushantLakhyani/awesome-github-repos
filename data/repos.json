@@ -1150,5 +1150,23 @@
     "description": "A desktop app for making Kanban task boards that works offline without needing an account.",
     "license": "GPL-3.0",
     "added": "2026-11-21"
+  },
+  {
+    "id": 542284380,
+    "repo": "usebruno/bruno",
+    "url": "https://github.com/usebruno/bruno",
+    "category": "dev",
+    "description": "A desktop app for trying out and testing web APIs, with files you can keep in your project.",
+    "license": "MIT",
+    "added": "2026-11-22"
+  },
+  {
+    "id": 24063576,
+    "repo": "semantic-release/semantic-release",
+    "url": "https://github.com/semantic-release/semantic-release",
+    "category": "dev",
+    "description": "A tool that picks the next version number and publishes new releases of software automatically.",
+    "license": "MIT",
+    "added": "2026-11-22"
   }
 ]
