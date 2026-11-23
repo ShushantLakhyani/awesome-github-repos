@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-130 repos · last checked 2026-11-22
+133 repos · last checked 2026-11-23
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -45,6 +45,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - A testing library that checks web pages for problems that make them hard to use for people with disabilities. `MPL-2.0`
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - A tool that shows a folder of Markdown files as a documentation website without a build step. `MIT`
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - Turns folders of text files into a full website you can put online with no server code. `Apache-2.0`
+- [gokcehan/lf](https://github.com/gokcehan/lf) - A simple file manager for the terminal that you move around with the keyboard. `MIT`
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Lightweight tool for testing APIs in the browser, an open alternative to Postman. `MIT`
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - A tool that turns plain text and Markdown files into a ready-to-host website or blog. `MIT`
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - Simple terminal interface for Git that makes staging, committing and branching faster. `MIT`
@@ -99,6 +100,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - Turns a piece of code into a neat picture you can share. `MIT`
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - A set of ready made parts for building web app screens with React. `MIT`
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching diagrams with a hand-drawn look. `MIT`
+- [jgraph/drawio](https://github.com/jgraph/drawio) - A free editor that runs in the web browser for drawing diagrams and flowcharts. `Apache-2.0`
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Ready-made Tailwind CSS page parts you can copy and paste into your own website. `MIT`
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - A big free set of simple icons from Microsoft, in outline and filled styles. `MIT`
 - [mui/base-ui](https://github.com/mui/base-ui) - A set of plain React building blocks like menus and dialogs that work well for everyone. `MIT`
@@ -172,6 +174,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [docling-project/docling](https://github.com/docling-project/docling) - Turns files like PDFs, Word documents and slides into clean text, Markdown or JSON. `MIT`
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal app with tabs, split panes and saved connections to other computers. `MIT`
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Shows your computer's system details, like OS, CPU and memory, in a neat terminal summary. `MIT`
+- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - A tool that takes screenshots and lets you draw on them before you save or share. `GPL-3.0`
 - [jgm/pandoc](https://github.com/jgm/pandoc) - A command-line tool that turns documents from one format into another, like Markdown into Word or PDF. `GPL-2.0`
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - A diary you write in the terminal that saves plain text files and can lock them with a password. `GPL-3.0`
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - A fast terminal app for typing commands, with support for tabs, windows and images. `GPL-3.0`

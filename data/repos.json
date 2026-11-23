@@ -1168,5 +1168,32 @@
     "description": "A tool that picks the next version number and publishes new releases of software automatically.",
     "license": "MIT",
     "added": "2026-11-22"
+  },
+  {
+    "id": 65616765,
+    "repo": "gokcehan/lf",
+    "url": "https://github.com/gokcehan/lf",
+    "category": "dev",
+    "description": "A simple file manager for the terminal that you move around with the keyboard.",
+    "license": "MIT",
+    "added": "2026-11-23"
+  },
+  {
+    "id": 90902132,
+    "repo": "flameshot-org/flameshot",
+    "url": "https://github.com/flameshot-org/flameshot",
+    "category": "utilities",
+    "description": "A tool that takes screenshots and lets you draw on them before you save or share.",
+    "license": "GPL-3.0",
+    "added": "2026-11-23"
+  },
+  {
+    "id": 67508428,
+    "repo": "jgraph/drawio",
+    "url": "https://github.com/jgraph/drawio",
+    "category": "design",
+    "description": "A free editor that runs in the web browser for drawing diagrams and flowcharts.",
+    "license": "Apache-2.0",
+    "added": "2026-11-23"
   }
 ]
