@@ -1195,5 +1195,41 @@
     "description": "A free editor that runs in the web browser for drawing diagrams and flowcharts.",
     "license": "Apache-2.0",
     "added": "2026-11-23"
+  },
+  {
+    "id": 678526156,
+    "repo": "marimo-team/marimo",
+    "url": "https://github.com/marimo-team/marimo",
+    "category": "data",
+    "description": "A Python notebook where cells update each other and that can be shared as an app.",
+    "license": "Apache-2.0",
+    "added": "2026-11-24"
+  },
+  {
+    "id": 45646037,
+    "repo": "plotly/plotly.js",
+    "url": "https://github.com/plotly/plotly.js",
+    "category": "data",
+    "description": "A JavaScript library for drawing many kinds of charts and graphs in web pages.",
+    "license": "MIT",
+    "added": "2026-11-24"
+  },
+  {
+    "id": 27442967,
+    "repo": "fastlane/fastlane",
+    "url": "https://github.com/fastlane/fastlane",
+    "category": "dev",
+    "description": "A tool that automates building, testing and releasing iOS and Android apps.",
+    "license": "MIT",
+    "added": "2026-11-24"
+  },
+  {
+    "id": 373855820,
+    "repo": "tusen-ai/naive-ui",
+    "url": "https://github.com/tusen-ai/naive-ui",
+    "category": "design",
+    "description": "A set of ready-made interface components for building Vue 3 web apps.",
+    "license": "MIT",
+    "added": "2026-11-24"
   }
 ]

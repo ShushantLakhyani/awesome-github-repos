@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-133 repos · last checked 2026-11-23
+137 repos · last checked 2026-11-24
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -44,6 +44,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-based text editor for web pages that saves what you write as clean data. `Apache-2.0`
 - [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - A testing library that checks web pages for problems that make them hard to use for people with disabilities. `MPL-2.0`
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - A tool that shows a folder of Markdown files as a documentation website without a build step. `MIT`
+- [fastlane/fastlane](https://github.com/fastlane/fastlane) - A tool that automates building, testing and releasing iOS and Android apps. `MIT`
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - Turns folders of text files into a full website you can put online with no server code. `Apache-2.0`
 - [gokcehan/lf](https://github.com/gokcehan/lf) - A simple file manager for the terminal that you move around with the keyboard. `MIT`
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Lightweight tool for testing APIs in the browser, an open alternative to Postman. `MIT`
@@ -113,6 +114,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - A big free collection of simple one-colour logo icons for well-known brands, as SVG files. `CC0-1.0`
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A set of ready-made website parts and themes built on Tailwind CSS for popular web frameworks. `MIT`
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A large free set of simple outline icons you can use in websites and apps. `MIT`
+- [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A set of ready-made interface components for building Vue 3 web apps. `MIT`
 - [twbs/icons](https://github.com/twbs/icons) - A free set of more than 2,000 simple SVG icons made for the Bootstrap toolkit. `MIT`
 - [unovue/reka-ui](https://github.com/unovue/reka-ui) - A set of unstyled, accessible building blocks for making user interfaces with Vue. `MIT`
 
@@ -144,8 +146,10 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - Fast in-process database for analysing data with SQL right on your laptop. `MIT`
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - A Python library for making simple web pages to try out and share machine learning models. `Apache-2.0`
 - [grafana/grafana](https://github.com/grafana/grafana) - An open source tool for building dashboards with charts that show data from many sources. `AGPL-3.0`
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A Python notebook where cells update each other and that can be shared as an app. `Apache-2.0`
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - A Python library that turns tables of numbers into clear charts with very little code. `BSD-3-Clause`
 - [plotly/dash](https://github.com/plotly/dash) - A Python framework for building interactive web dashboards with charts, sliders and dropdowns. `MIT`
+- [plotly/plotly.js](https://github.com/plotly/plotly.js) - A JavaScript library for drawing many kinds of charts and graphs in web pages. `MIT`
 - [simonw/datasette](https://github.com/simonw/datasette) - A tool for exploring data and sharing it online as a simple website. `Apache-2.0`
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - A Python library that turns a short script into a web page with charts, tables and buttons. `Apache-2.0`
 
