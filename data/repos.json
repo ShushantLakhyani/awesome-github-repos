@@ -1231,5 +1231,32 @@
     "description": "A set of ready-made interface components for building Vue 3 web apps.",
     "license": "MIT",
     "added": "2026-11-24"
+  },
+  {
+    "id": 62161750,
+    "repo": "hneemann/Digital",
+    "url": "https://github.com/hneemann/Digital",
+    "category": "learning",
+    "description": "A desktop app where students draw logic circuits and watch how they work.",
+    "license": "GPL-3.0",
+    "added": "2026-11-25"
+  },
+  {
+    "id": 383777434,
+    "repo": "chakra-ui/zag",
+    "url": "https://github.com/chakra-ui/zag",
+    "category": "design",
+    "description": "Ready-made logic for menus, dialogs and pickers that works with keyboards and screen readers.",
+    "license": "MIT",
+    "added": "2026-11-25"
+  },
+  {
+    "id": 534208492,
+    "repo": "satnaing/astro-paper",
+    "url": "https://github.com/satnaing/astro-paper",
+    "category": "design",
+    "description": "A clean starter theme for making a fast, simple blog with the Astro web tool.",
+    "license": "MIT",
+    "added": "2026-11-25"
   }
 ]

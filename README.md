@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-137 repos · last checked 2026-11-24
+140 repos · last checked 2026-11-25
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -100,6 +100,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A set of React building blocks from Adobe for making web apps that everyone can use, including screen reader users. `Apache-2.0`
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - Turns a piece of code into a neat picture you can share. `MIT`
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - A set of ready made parts for building web app screens with React. `MIT`
+- [chakra-ui/zag](https://github.com/chakra-ui/zag) - Ready-made logic for menus, dialogs and pickers that works with keyboards and screen readers. `MIT`
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching diagrams with a hand-drawn look. `MIT`
 - [jgraph/drawio](https://github.com/jgraph/drawio) - A free editor that runs in the web browser for drawing diagrams and flowcharts. `Apache-2.0`
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Ready-made Tailwind CSS page parts you can copy and paste into your own website. `MIT`
@@ -110,6 +111,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [primer/css](https://github.com/primer/css) - The style sheet code behind GitHub's look, for building web pages. `MIT`
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Unstyled React parts like menus and dialogs that work well with keyboards and screen readers. `MIT`
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - Ready-made buttons, cards and other page parts that plug into Tailwind CSS with simple class names. `MIT`
+- [satnaing/astro-paper](https://github.com/satnaing/astro-paper) - A clean starter theme for making a fast, simple blog with the Astro web tool. `MIT`
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautiful React components you copy into your project and fully customise. `MIT`
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - A big free collection of simple one-colour logo icons for well-known brands, as SVG files. `CC0-1.0`
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A set of ready-made website parts and themes built on Tailwind CSS for popular web frameworks. `MIT`
@@ -159,6 +161,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - A free app for Android phones that quizzes you with flashcards so facts stick in memory. `GPL-3.0`
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - Free, self-paced curriculum for learning to code, with projects and certifications. `BSD-3-Clause`
 - [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - A word list that explains hard functional programming terms with plain words and small code examples. `MIT`
+- [hneemann/Digital](https://github.com/hneemann/Digital) - A desktop app where students draw logic circuits and watch how they work. `GPL-3.0`
 - [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) - A notebook for the Julia language where every cell updates on its own when you change code. `MIT`
 - [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - A desktop app for drawing and testing digital logic circuits, often used to learn how computers work. `GPL-3.0`
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - A free course of short lessons and quizzes that teaches the basics of working with data. `MIT`
