@@ -1258,5 +1258,32 @@
     "description": "A clean starter theme for making a fast, simple blog with the Astro web tool.",
     "license": "MIT",
     "added": "2026-11-25"
+  },
+  {
+    "id": 15333471,
+    "repo": "ocrmypdf/OCRmyPDF",
+    "url": "https://github.com/ocrmypdf/OCRmyPDF",
+    "category": "utilities",
+    "description": "A command line tool that reads scanned PDF pages and adds hidden text so you can search and copy it.",
+    "license": "MPL-2.0",
+    "added": "2026-11-26"
+  },
+  {
+    "id": 8986217,
+    "repo": "koreader/koreader",
+    "url": "https://github.com/koreader/koreader",
+    "category": "learning",
+    "description": "An ebook and document reading app built mainly for e-ink devices like Kobo and Kindle.",
+    "license": "AGPL-3.0",
+    "added": "2026-11-26"
+  },
+  {
+    "id": 661850205,
+    "repo": "docusealco/docuseal",
+    "url": "https://github.com/docusealco/docuseal",
+    "category": "self-hosted",
+    "description": "A self-hosted app for building PDF forms that people can fill in and sign online.",
+    "license": "AGPL-3.0",
+    "added": "2026-11-26"
   }
 ]

@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-140 repos · last checked 2026-11-25
+143 repos · last checked 2026-11-26
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -126,6 +126,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - A drag-and-drop builder for making simple company apps like admin panels and dashboards. `Apache-2.0`
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - A backend you can run yourself that gives apps logins, databases, file storage and functions. `BSD-3-Clause`
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - A tool that lets you put your apps and databases online using your own servers. `Apache-2.0`
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - A self-hosted app for building PDF forms that people can fill in and sign online. `AGPL-3.0`
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A start page you host yourself that shows all your home server apps and their status in one place. `GPL-3.0`
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A home page you run yourself that shows news, weather, videos and server status in one screen. `AGPL-3.0`
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - A code hosting app you run on your own server to store projects, track issues and review changes. `MIT`
@@ -163,6 +164,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - A word list that explains hard functional programming terms with plain words and small code examples. `MIT`
 - [hneemann/Digital](https://github.com/hneemann/Digital) - A desktop app where students draw logic circuits and watch how they work. `GPL-3.0`
 - [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) - A notebook for the Julia language where every cell updates on its own when you change code. `MIT`
+- [koreader/koreader](https://github.com/koreader/koreader) - An ebook and document reading app built mainly for e-ink devices like Kobo and Kindle. `AGPL-3.0`
 - [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - A desktop app for drawing and testing digital logic circuits, often used to learn how computers work. `GPL-3.0`
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - A free course of short lessons and quizzes that teaches the basics of working with data. `MIT`
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - Free course with lessons on the basics of building generative AI apps. `MIT`
@@ -187,6 +189,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - A fast terminal app for typing commands, with support for tabs, windows and images. `GPL-3.0`
 - [micro-editor/micro](https://github.com/micro-editor/micro) - A simple text editor that runs inside the terminal and uses the usual copy, paste and save keys. `MIT`
 - [microsoft/terminal](https://github.com/microsoft/terminal) - A modern terminal app for Windows with tabs, panes, themes and support for many shells. `MIT`
+- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - A command line tool that reads scanned PDF pages and adds hidden text so you can search and copy it. `MPL-2.0`
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - Times terminal commands many times over and shows which one runs quicker. `Apache-2.0`
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - A file manager that runs in the terminal and shows file and image previews. `MIT`
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Keeps files in sync across your devices directly, without any cloud service. `MPL-2.0`
