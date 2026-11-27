@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-143 repos · last checked 2026-11-26
+146 repos · last checked 2026-11-27
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -159,6 +159,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 <a id="learning"></a>
 ## Learning
 
+- [a11yproject/a11yproject.com](https://github.com/a11yproject/a11yproject.com) - A community guide with tips for making websites easier for everyone to use. `Apache-2.0`
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - A free app for Android phones that quizzes you with flashcards so facts stick in memory. `GPL-3.0`
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - Free, self-paced curriculum for learning to code, with projects and certifications. `BSD-3-Clause`
 - [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - A word list that explains hard functional programming terms with plain words and small code examples. `MIT`
@@ -193,6 +194,8 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - Times terminal commands many times over and shows which one runs quicker. `Apache-2.0`
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - A file manager that runs in the terminal and shows file and image previews. `MIT`
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Keeps files in sync across your devices directly, without any cloud service. `MPL-2.0`
+- [veeso/termscp](https://github.com/veeso/termscp) - A terminal app for browsing and moving files over SFTP, FTP, S3 and similar. `MIT`
+- [yorukot/superfile](https://github.com/yorukot/superfile) - A modern file manager that runs inside the terminal window. `MIT`
 
 ## How repos are picked
 

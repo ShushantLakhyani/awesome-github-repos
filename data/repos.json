@@ -1285,5 +1285,32 @@
     "description": "A self-hosted app for building PDF forms that people can fill in and sign online.",
     "license": "AGPL-3.0",
     "added": "2026-11-26"
+  },
+  {
+    "id": 774468912,
+    "repo": "yorukot/superfile",
+    "url": "https://github.com/yorukot/superfile",
+    "category": "utilities",
+    "description": "A modern file manager that runs inside the terminal window.",
+    "license": "MIT",
+    "added": "2026-11-27"
+  },
+  {
+    "id": 310881039,
+    "repo": "veeso/termscp",
+    "url": "https://github.com/veeso/termscp",
+    "category": "utilities",
+    "description": "A terminal app for browsing and moving files over SFTP, FTP, S3 and similar.",
+    "license": "MIT",
+    "added": "2026-11-27"
+  },
+  {
+    "id": 7548246,
+    "repo": "a11yproject/a11yproject.com",
+    "url": "https://github.com/a11yproject/a11yproject.com",
+    "category": "learning",
+    "description": "A community guide with tips for making websites easier for everyone to use.",
+    "license": "Apache-2.0",
+    "added": "2026-11-27"
   }
 ]
