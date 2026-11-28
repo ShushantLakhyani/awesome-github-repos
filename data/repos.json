@@ -1312,5 +1312,32 @@
     "description": "A community guide with tips for making websites easier for everyone to use.",
     "license": "Apache-2.0",
     "added": "2026-11-27"
+  },
+  {
+    "id": 843222,
+    "repo": "scikit-learn/scikit-learn",
+    "url": "https://github.com/scikit-learn/scikit-learn",
+    "category": "ai",
+    "description": "A Python library with ready-made tools for teaching computers to find patterns in data.",
+    "license": "BSD-3-Clause",
+    "added": "2026-11-28"
+  },
+  {
+    "id": 1198539,
+    "repo": "lutzroeder/netron",
+    "url": "https://github.com/lutzroeder/netron",
+    "category": "ai",
+    "description": "An app that draws a picture of a trained AI model so you can see its layers and parts.",
+    "license": "MIT",
+    "added": "2026-11-28"
+  },
+  {
+    "id": 22887094,
+    "repo": "tesseract-ocr/tesseract",
+    "url": "https://github.com/tesseract-ocr/tesseract",
+    "category": "utilities",
+    "description": "A program that reads printed words in pictures and scans and turns them into plain text.",
+    "license": "Apache-2.0",
+    "added": "2026-11-28"
   }
 ]

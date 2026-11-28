@@ -2,7 +2,7 @@
 
 A hand-picked list of useful, open-source GitHub repositories. Every repo is checked against the same safety rules before it is listed, and the whole list is re-checked every day.
 
-146 repos · last checked 2026-11-27
+149 repos · last checked 2026-11-28
 
 > **Please read:** every repo here is owned and maintained by someone else. Listing is not an endorsement or a guarantee. Always review code and its licence yourself before you install or run it. Use at your own risk.
 
@@ -29,8 +29,10 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [huggingface/transformers](https://github.com/huggingface/transformers) - Library of ready-made AI models for text, images and audio, usable in a few lines of Python. `Apache-2.0`
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - Framework for building apps and agents on top of large language models. `MIT`
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - A self-hosted app that lets you ask an AI questions about your own documents and notes. `MIT`
+- [lutzroeder/netron](https://github.com/lutzroeder/netron) - An app that draws a picture of a trained AI model so you can see its layers and parts. `MIT`
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Turns PDFs, Word, Excel and other files into clean Markdown that AI tools can read. `MIT`
 - [ollama/ollama](https://github.com/ollama/ollama) - Run open AI models like Llama and Gemma on your own computer with a single command. `MIT`
+- [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - A Python library with ready-made tools for teaching computers to find patterns in data. `BSD-3-Clause`
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - A tool that helps you train and run AI language models on your own computer using less memory. `Apache-2.0`
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - Runs open AI language models on your own servers so they can answer many requests at once. `Apache-2.0`
 
@@ -194,6 +196,7 @@ A hand-picked list of useful, open-source GitHub repositories. Every repo is che
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - Times terminal commands many times over and shows which one runs quicker. `Apache-2.0`
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - A file manager that runs in the terminal and shows file and image previews. `MIT`
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Keeps files in sync across your devices directly, without any cloud service. `MPL-2.0`
+- [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - A program that reads printed words in pictures and scans and turns them into plain text. `Apache-2.0`
 - [veeso/termscp](https://github.com/veeso/termscp) - A terminal app for browsing and moving files over SFTP, FTP, S3 and similar. `MIT`
 - [yorukot/superfile](https://github.com/yorukot/superfile) - A modern file manager that runs inside the terminal window. `MIT`
 
